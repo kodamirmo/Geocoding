@@ -1,0 +1,2614 @@
+[{
+    "_id" : "59c4c10500220a53359e04d9",
+    "legacy_id" : "29",
+    "nombre" : "365",
+    "direccion" : "Calle Bajío 365. Condesa. Cuauhtémoc. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.402515,
+        "lng" : -99.170374
+    },
+    "id" : "59c4c10500220a53359e04d9"
+},
+{
+    "_id" : "59c4c10600220a53359e04e8",
+    "legacy_id" : "9",
+    "nombre" : "4th Avenue",
+    "direccion" : "Calle 19  numero 69 . San Pedro de los Pinos. . Ciudad de México",
+    "geopos" : {
+        "lat" : 19.388404,
+        "lng" : -99.18512
+    },
+    "id" : "59c4c10600220a53359e04e8"
+},
+{
+    "_id" : "59c4c10600220a53359e04ed",
+    "legacy_id" : "263",
+    "nombre" : "Acatil y Tequila",
+    "direccion" : "Calle Acatil S/N esq. Tequila . Col. Tierra Propia, C.P. 67197. Guadalupe. ",
+    "id" : "59c4c10600220a53359e04ed"
+},
+{
+    "_id" : "59c4c10600220a53359e04ef",
+    "legacy_id" : "25",
+    "nombre" : "Acopio para Jojutla y Tetela del Volcán (Morelos)",
+    "direccion" : "Prol. Santa Tecla, esquina Las Flores 130. Los Reyes. Coyoacán. Ciudad de México",
+    "id" : "59c4c10600220a53359e04ef"
+},
+{
+    "_id" : "59c4c10600220a53359e04f6",
+    "legacy_id" : "208",
+    "nombre" : "Acueducto 60",
+    "direccion" : "Privada de acueducto 60. Bosque Real. . ",
+    "id" : "59c4c10600220a53359e04f6"
+},
+{
+    "_id" : "59c4c10600220a53359e04f8",
+    "legacy_id" : "235",
+    "nombre" : "AEROMEXICO CARGO",
+    "direccion" : "#REF!",
+    "id" : "59c4c10600220a53359e04f8"
+},
+{
+    "_id" : "59c4c10600220a53359e050b",
+    "legacy_id" : "153",
+    "nombre" : "Agapemed",
+    "direccion" : "Benito Juárez 224. La Fama. Santa Catarina. ",
+    "id" : "59c4c10600220a53359e050b"
+},
+{
+    "_id" : "59c4c10600220a53359e0513",
+    "legacy_id" : "141",
+    "nombre" : "Alianza francesa de Monterrey ",
+    "direccion" : "Avenida Morones Prieto y Humberto Lobo 502. Del Valle. San Pedro Garza García. ",
+    "id" : "59c4c10600220a53359e0513"
+},
+{
+    "_id" : "59c4c10600220a53359e0516",
+    "legacy_id" : "72",
+    "nombre" : "Alivia Clínica de Alta Especialidad",
+    "direccion" : "Av Josè Benitez  2526. OBISPADO. monterrey. ",
+    "geopos" : {
+        "lat" : 25.677153,
+        "lng" : -100.350337
+    },
+    "id" : "59c4c10600220a53359e0516"
+},
+{
+    "_id" : "59c4c10600220a53359e051b",
+    "legacy_id" : "319",
+    "nombre" : "Ámsterdam y Ozumala",
+    "direccion" : "una cuadra del péndulo de nuevo León",
+    "id" : "59c4c10600220a53359e051b"
+},
+{
+    "_id" : "59c4c10600220a53359e051e",
+    "legacy_id" : "67",
+    "nombre" : "Angela Peralta",
+    "direccion" : "Aristóteles S/N. Polanco. Miguel Hidalgo. ",
+    "geopos" : {
+        "lat" : 19.429145,
+        "lng" : -99.1963563
+    },
+    "id" : "59c4c10600220a53359e051e"
+},
+{
+    "_id" : "59c4c10600220a53359e0520",
+    "legacy_id" : "268",
+    "nombre" : "Apolo",
+    "direccion" : "Apolo S/N esq. Prolongación Aztlán . Col. San Bernabé, C.P. 64100. Monterrey. ",
+    "id" : "59c4c10600220a53359e0520"
+},
+{
+    "_id" : "59c4c10600220a53359e0522",
+    "legacy_id" : "204",
+    "nombre" : "Arteaga y Salazar",
+    "direccion" : "Arteaga y Salazar  1267 casa 5. CONTADERO. . ",
+    "geopos" : {
+        "lat" : 19.352984,
+        "lng" : -99.278477
+    },
+    "id" : "59c4c10600220a53359e0522"
+},
+{
+    "_id" : "59c4c10700220a53359e0524",
+    "legacy_id" : "20",
+    "nombre" : "Asociación Internacional de Sirios en México",
+    "direccion" : "Diagonal 35. Del Valle. Benito Juárez. Ciudad de México",
+    "id" : "59c4c10700220a53359e0524"
+},
+{
+    "_id" : "59c4c10700220a53359e0527",
+    "legacy_id" : "31",
+    "nombre" : "Auditorio Plutarco Elias Calles ",
+    "direccion" : "Luis Donaldo Colosio esq, Jesús García Corona . Buenavista. Cuauhtémoc. ",
+    "id" : "59c4c10700220a53359e0527"
+},
+{
+    "_id" : "59c4c10700220a53359e0531",
+    "legacy_id" : "181",
+    "nombre" : "Ayuda a Morelos",
+    "direccion" : "Altavista 19. Colonia San Angel. Delegación ALvaro Obregon. C.P. 01000",
+    "id" : "59c4c10700220a53359e0531"
+},
+{
+    "_id" : "59c4c10700220a53359e053e",
+    "legacy_id" : "173",
+    "nombre" : "Bahidorá",
+    "direccion" : "Mariano Escobedo 498. Anzures. Miguel HIdalgo. ",
+    "id" : "59c4c10700220a53359e053e"
+},
+{
+    "_id" : "59c4c10700220a53359e054a",
+    "legacy_id" : "174",
+    "nombre" : "Barra Mexicana de Abogados",
+    "direccion" : "Monterrey 200. . . ",
+    "id" : "59c4c10700220a53359e054a"
+},
+{
+    "_id" : "59c4c10700220a53359e054c",
+    "legacy_id" : "175",
+    "nombre" : "Barra Mexicana de Abogados",
+    "direccion" : "Valencia 74. Mixcoac. . ",
+    "id" : "59c4c10700220a53359e054c"
+},
+{
+    "_id" : "59c4c10700220a53359e054e",
+    "legacy_id" : "1",
+    "nombre" : "Beyork Loreto",
+    "direccion" : "Calle Altamirano 46 Local 6. San Ángel. Alvaro Obregon. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.339484,
+        "lng" : -99.193822
+    },
+    "id" : "59c4c10700220a53359e054e"
+},
+{
+    "_id" : "59c4c10700220a53359e0553",
+    "legacy_id" : "129",
+    "nombre" : "Bios",
+    "direccion" : "Cordillera Oriental 364. Lomas 3a Sección. San Luis Potosí. ",
+    "id" : "59c4c10700220a53359e0553"
+},
+{
+    "_id" : "59c4c10700220a53359e0555",
+    "legacy_id" : "176",
+    "nombre" : "Bloc E - Centro de Escalada",
+    "direccion" : "Av Patriotismo 724 724. Benito Juárez. . ",
+    "id" : "59c4c10700220a53359e0555"
+},
+{
+    "_id" : "59c4c10700220a53359e055f",
+    "legacy_id" : "97",
+    "nombre" : "Bodega Interceramic",
+    "direccion" : "Nicolás Bravo Poniente 51. Felipe Hueyotlipan. Puebla. ",
+    "geopos" : {
+        "lat" : 19.08293,
+        "lng" : -98.21554
+    },
+    "id" : "59c4c10700220a53359e055f"
+},
+{
+    "_id" : "59c4c10700220a53359e0561",
+    "legacy_id" : "177",
+    "nombre" : "Bolívar (No es centro pero necesitan ayuda URGENTE)",
+    "direccion" : "Bolivar, Colonia Obrera . Col. Obrera.. . ",
+    "id" : "59c4c10700220a53359e0561"
+},
+{
+    "_id" : "59c4c10800220a53359e056d",
+    "legacy_id" : "201",
+    "nombre" : "Bosque de Avellanos 142",
+    "direccion" : "Bosque de Avellanos  142. Bosques de las Lomas . . ",
+    "geopos" : {
+        "lat" : 19.400937,
+        "lng" : -99.253159
+    },
+    "id" : "59c4c10800220a53359e056d"
+},
+{
+    "_id" : "59c4c10800220a53359e056f",
+    "legacy_id" : "68",
+    "nombre" : "Bosque de Chapultepec - Puerta de Leones",
+    "direccion" : "Entre Paseo de la Reforma, Pedro A. de los Santos, Av. Constituyentes y Calzada de las Lomas S/N. Bosque de Chapultepec . Miguel Hidalgo. ",
+    "geopos" : {
+        "lat" : 19.4226872,
+        "lng" : -99.2465756
+    },
+    "id" : "59c4c10800220a53359e056f"
+},
+{
+    "_id" : "59c4c10800220a53359e0574",
+    "legacy_id" : "202",
+    "nombre" : "Bosque de Toronjos 39",
+    "direccion" : "Bosque de Toronjos  39-GH02A. Bosques de las Lomas . . ",
+    "geopos" : {
+        "lat" : 19.379429,
+        "lng" : -99.263203
+    },
+    "id" : "59c4c10800220a53359e0574"
+},
+{
+    "_id" : "59c4c10800220a53359e0576",
+    "legacy_id" : "207",
+    "nombre" : "Bosque de Yuridia 4",
+    "direccion" : "Cerrada Bosque de Yuridia  4. La Herradura. . ",
+    "id" : "59c4c10800220a53359e0576"
+},
+{
+    "_id" : "59c4c10800220a53359e0578",
+    "legacy_id" : "62",
+    "nombre" : "Bosque Mágico ",
+    "direccion" : "Av. Eloy Cavazos SN. Col Bosques de la Pastora. Guadalupe. ",
+    "id" : "59c4c10800220a53359e0578"
+},
+{
+    "_id" : "59c4c10800220a53359e057e",
+    "legacy_id" : "12",
+    "nombre" : "Boulevard de la Luz ",
+    "direccion" : "Boulevard de la Luz 126 (antes 122). Jardines del Pedregal. Alvaro Obregón. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.319882,
+        "lng" : -99.21346
+    },
+    "id" : "59c4c10800220a53359e057e"
+},
+{
+    "_id" : "59c4c10800220a53359e0584",
+    "legacy_id" : "23",
+    "nombre" : "Bros Burguer Bar",
+    "direccion" : "Av Circuito Azteca 45. El Caracol. Coyoacan. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.302824,
+        "lng" : -99.160873
+    },
+    "id" : "59c4c10800220a53359e0584"
+},
+{
+    "_id" : "59c4c10800220a53359e0590",
+    "legacy_id" : "66",
+    "nombre" : "Café Petricor",
+    "direccion" : "Guadalupe Zuno 2219 2219. Lafayette. Jalisco . ",
+    "id" : "59c4c10800220a53359e0590"
+},
+{
+    "_id" : "59c4c10800220a53359e0592",
+    "legacy_id" : "69",
+    "nombre" : "Campo Marte, Centro Acopio 1",
+    "direccion" : "Av, Paseo de la Reforma . San Miguel Chapultepec . Miguel Hidalgo. ",
+    "id" : "59c4c10800220a53359e0592"
+},
+{
+    "_id" : "59c4c10800220a53359e0597",
+    "legacy_id" : "243",
+    "nombre" : "Cantina El Faro",
+    "direccion" : "Av. Eloy Cavazos SN. Col Bosques de la Pastora. Guadalupe. ",
+    "id" : "59c4c10800220a53359e0597"
+},
+{
+    "_id" : "59c4c10800220a53359e0599",
+    "legacy_id" : "298",
+    "nombre" : "Cantina El Faro ",
+    "direccion" : "16 de Septienbre numero 128",
+    "id" : "59c4c10800220a53359e0599"
+},
+{
+    "_id" : "59c4c10800220a53359e059b",
+    "legacy_id" : "78",
+    "nombre" : "Cáritas de Monterrey",
+    "direccion" : "Francisco Garza Sada 2810. Deportivo Obispado. Monterrey. ",
+    "id" : "59c4c10800220a53359e059b"
+},
+{
+    "_id" : "59c4c10800220a53359e059d",
+    "legacy_id" : "227",
+    "nombre" : "Carnes Papaloapan Boca del Rio",
+    "direccion" : "General RinconAv. Secretaría de Marina  63445. AtzelanLomas del Chamizal. XalapaCuajimalpa de Morelos. ",
+    "geopos" : {
+        "lat" : 19.2161292,
+        "lng" : -96.2116064
+    },
+    "id" : "59c4c10800220a53359e059d"
+},
+{
+    "_id" : "59c4c10800220a53359e05a3",
+    "legacy_id" : "226",
+    "nombre" : "Carnes Papaloapan Xalapa",
+    "direccion" : "AV 14 Ote 1204. Barrio El Alto. Puebla. ",
+    "geopos" : {
+        "lat" : 19.5316262,
+        "lng" : -96.9098878
+    },
+    "id" : "59c4c10800220a53359e05a3"
+},
+{
+    "_id" : "59c4c10800220a53359e05a9",
+    "legacy_id" : "223",
+    "nombre" : "Carolo Bosques",
+    "direccion" : "Av. Secretaría de Marina  445. Lomas del Chamizal. Cuajimalpa de Morelos. ",
+    "geopos" : {
+        "lat" : 19.3808856,
+        "lng" : 99.2559331
+    },
+    "id" : "59c4c10800220a53359e05a9"
+},
+{
+    "_id" : "59c4c10900220a53359e05ab",
+    "legacy_id" : "98",
+    "nombre" : "Casa Aguayo",
+    "direccion" : "AV 14 Ote 1204. Barrio El Alto. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04549,
+        "lng" : -98.18789
+    },
+    "id" : "59c4c10900220a53359e05ab"
+},
+{
+    "_id" : "59c4c10900220a53359e05ad",
+    "legacy_id" : "178",
+    "nombre" : "Casa de Estudiantes Emiliano Zapata (CEEZ) ",
+    "direccion" : "Rio Lerma 5521. San Manuel. . ",
+    "id" : "59c4c10900220a53359e05ad"
+},
+{
+    "_id" : "59c4c10900220a53359e05af",
+    "legacy_id" : "301",
+    "nombre" : "Casa habitacion",
+    "direccion" : "Villas el Batan #117 Fracc. Villas Campestre",
+    "id" : "59c4c10900220a53359e05af"
+},
+{
+    "_id" : "59c4c10900220a53359e05b3",
+    "legacy_id" : "50",
+    "nombre" : "Casa Jalisco",
+    "direccion" : "Onterio 522. Ladrón de Guevara. Guadalajara. ",
+    "id" : "59c4c10900220a53359e05b3"
+},
+{
+    "_id" : "59c4c10900220a53359e05b5",
+    "legacy_id" : "51",
+    "nombre" : "Casa Mariachi",
+    "direccion" : "Av. La Paz 2276. Lafayette. Guadalajara. ",
+    "id" : "59c4c10900220a53359e05b5"
+},
+{
+    "_id" : "59c4c10900220a53359e05b7",
+    "legacy_id" : "158",
+    "nombre" : "Casa Particular (Azul Portón Negro)",
+    "direccion" : "España 54. Lomas Bulevares. Tlanepanta de Baz. ",
+    "id" : "59c4c10900220a53359e05b7"
+},
+{
+    "_id" : "59c4c10900220a53359e05b9",
+    "legacy_id" : "32",
+    "nombre" : "Casa Quimera",
+    "direccion" : "Orizaba  131. Roma Norte. Cuauhtémoc. ",
+    "id" : "59c4c10900220a53359e05b9"
+},
+{
+    "_id" : "59c4c10900220a53359e05be",
+    "legacy_id" : "163",
+    "nombre" : "Casa Residencial pero aceptan donaciones",
+    "direccion" : "Villada  #434 interior #9. Toluca. Toluca. ",
+    "id" : "59c4c10900220a53359e05be"
+},
+{
+    "_id" : "59c4c10900220a53359e05c2",
+    "legacy_id" : "52",
+    "nombre" : "Casa Territorio",
+    "direccion" : "Francisco Javier Gamboa 113. Lafayette. Guadalajara. ",
+    "id" : "59c4c10900220a53359e05c2"
+},
+{
+    "_id" : "59c4c10900220a53359e05c7",
+    "legacy_id" : "117",
+    "nombre" : "Casa Universitaria del libro UNAM",
+    "direccion" : "Orizaba 24. Cuauhtemoc. Roma Norte . ",
+    "geopos" : {
+        "lat" : 19.422964,
+        "lng" : -99.159934
+    },
+    "id" : "59c4c10900220a53359e05c7"
+},
+{
+    "_id" : "59c4c10900220a53359e05d2",
+    "legacy_id" : "73",
+    "nombre" : "Centro de Acopio San Remo",
+    "direccion" : "San Remo 1204. Cumbres San Agustín. Monterrey. ",
+    "geopos" : {
+        "lat" : 25.761077,
+        "lng" : -100.417106
+    },
+    "id" : "59c4c10900220a53359e05d2"
+},
+{
+    "_id" : "59c4c10900220a53359e05d9",
+    "legacy_id" : "127",
+    "nombre" : "Centro de Cholula",
+    "direccion" : "Lateral de la Recta Sur Cholula-Puebla 3500. Barrio Real. San Andrés Cholula. ",
+    "geopos" : {
+        "lat" : 19.05876,
+        "lng" : -98.27594
+    },
+    "id" : "59c4c10900220a53359e05d9"
+},
+{
+    "_id" : "59c4c10900220a53359e05db",
+    "legacy_id" : "99",
+    "nombre" : "Centro de Convenciones Puebla",
+    "direccion" : "Blvrd. Héroes del 5 de Mayo 402. Centro Histórico. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04424,
+        "lng" : -98.19128
+    },
+    "id" : "59c4c10900220a53359e05db"
+},
+{
+    "_id" : "59c4c10900220a53359e05dd",
+    "legacy_id" : "238",
+    "nombre" : "Centro de Cultura Digital",
+    "direccion" : "",
+    "id" : "59c4c10900220a53359e05dd"
+},
+{
+    "_id" : "59c4c10900220a53359e05e4",
+    "legacy_id" : "24",
+    "nombre" : "Centro del Patrimonio Inmobiliario Federal",
+    "direccion" : "Salvador Novo 8. Santa Catarina. Coyoacan. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.351142,
+        "lng" : -99.176599
+    },
+    "id" : "59c4c10900220a53359e05e4"
+},
+{
+    "_id" : "59c4c10a00220a53359e05fb",
+    "legacy_id" : "93",
+    "nombre" : "Centro Deportivo Israelita (CDI)",
+    "direccion" : "Perif. Blvd. Manuel Ávila Camacho 620. Campo Militar 1A. Naucalpan de Juárez. Naucalpan",
+    "id" : "59c4c10a00220a53359e05fb"
+},
+{
+    "_id" : "59c4c10a00220a53359e05fd",
+    "legacy_id" : "277",
+    "nombre" : "Centro Deportivo Toltitlán ",
+    "direccion" : "Blvd. Tultitlán Pte. 204, Los Reyes, 54900 Tultitlán de Mariano Escobedo, Méx.",
+    "id" : "59c4c10a00220a53359e05fd"
+},
+{
+    "_id" : "59c4c10a00220a53359e0600",
+    "legacy_id" : "100",
+    "nombre" : "Centro Expositor",
+    "direccion" : "Ejército Oriente 100. Col. Montebello. Puebla. ",
+    "geopos" : {
+        "lat" : 19.05647,
+        "lng" : -98.18064
+    },
+    "id" : "59c4c10a00220a53359e0600"
+},
+{
+    "_id" : "59c4c10a00220a53359e0606",
+    "legacy_id" : "2",
+    "nombre" : "Centro gubernamental, Autoridad Zona Patrimonio ",
+    "direccion" : "Av. San fernando  160. Tlalpan Centro. Tlalpan. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.292106,
+        "lng" : -99.166905
+    },
+    "id" : "59c4c10a00220a53359e0606"
+},
+{
+    "_id" : "59c4c10a00220a53359e0608",
+    "legacy_id" : "5",
+    "nombre" : "Centro gubernamental, Casa Refugio Citlaltépetl ",
+    "direccion" : "Citlalltépec  25. Condesa. Cuauhtémoc. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.409215,
+        "lng" : -99.170788
+    },
+    "id" : "59c4c10a00220a53359e0608"
+},
+{
+    "_id" : "59c4c10a00220a53359e060d",
+    "legacy_id" : "3",
+    "nombre" : "Centro gubernamental, Procuraduría Ambiental y del Ordenamiento Territorial",
+    "direccion" : "Medellin esq. Chiapas . Roma. Cuauhtémoc. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.412053,
+        "lng" : -99.164335
+    },
+    "id" : "59c4c10a00220a53359e060d"
+},
+{
+    "_id" : "59c4c10a00220a53359e060f",
+    "legacy_id" : "4",
+    "nombre" : "Centro gubernamental, SEDESO",
+    "direccion" : "Chimalpopoca y Bolivar SN. Obrera. Cuauhtémoc. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.422299,
+        "lng" : -99.13975
+    },
+    "id" : "59c4c10a00220a53359e060f"
+},
+{
+    "_id" : "59c4c10a00220a53359e0614",
+    "legacy_id" : "8",
+    "nombre" : "Centro gubernamental, SEDESO - CANACERO",
+    "direccion" : "Amores 338. San Angel . Benito Juarez. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.39296,
+        "lng" : -99.163104
+    },
+    "id" : "59c4c10a00220a53359e0614"
+},
+{
+    "_id" : "59c4c10a00220a53359e0617",
+    "legacy_id" : "7",
+    "nombre" : "Centro gubernamental, Sistema M1",
+    "direccion" : "Versalles 46. Juarez. Cuauhtémoc. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.430214,
+        "lng" : -99.153712
+    },
+    "id" : "59c4c10a00220a53359e0617"
+},
+{
+    "_id" : "59c4c10a00220a53359e061a",
+    "legacy_id" : "219",
+    "nombre" : "Centro Medico ABC Observatorio",
+    "direccion" : "Sur 136 116. Las Americas. Alvaro Obregón. ",
+    "geopos" : {
+        "lat" : 19.4005466,
+        "lng" : -99.2056457
+    },
+    "id" : "59c4c10a00220a53359e061a"
+},
+{
+    "_id" : "59c4c10a00220a53359e0620",
+    "legacy_id" : "220",
+    "nombre" : "Centro Medico ABC Santa Fe",
+    "direccion" : "",
+    "geopos" : {
+        "lat" : 19.4005432,
+        "lng" : -99.2384764
+    },
+    "id" : "59c4c10a00220a53359e0620"
+},
+{
+    "_id" : "59c4c10a00220a53359e0626",
+    "legacy_id" : "168",
+    "nombre" : "Centro para el Desarrollo Central del Adulto Mayor",
+    "direccion" : "Av. Bugambilias 2500. Bugambilias. Zapopan. ",
+    "id" : "59c4c10a00220a53359e0626"
+},
+{
+    "_id" : "59c4c10a00220a53359e0628",
+    "legacy_id" : "221",
+    "nombre" : "Centro Recreativo Niños Héroes DIF",
+    "direccion" : "Av. Popocatépetl 216. Sta Cruz Atoyac. Benito juárez. ",
+    "id" : "59c4c10a00220a53359e0628"
+},
+{
+    "_id" : "59c4c10a00220a53359e062d",
+    "legacy_id" : "14",
+    "nombre" : "Centro Universitario México",
+    "direccion" : "Concepción Beistegui 1104. Narvarte. Benito Juaréz. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.389162,
+        "lng" : -99.161151
+    },
+    "id" : "59c4c10a00220a53359e062d"
+},
+{
+    "_id" : "59c4c10a00220a53359e0644",
+    "legacy_id" : "203",
+    "nombre" : "Cerrada de Bezares 130",
+    "direccion" : "Cerrada de Bezares 130. Bosques de las Lomas . . ",
+    "geopos" : {
+        "lat" : 19.3905,
+        "lng" : -99.241931
+    },
+    "id" : "59c4c10a00220a53359e0644"
+},
+{
+    "_id" : "59c4c10b00220a53359e0648",
+    "legacy_id" : "74",
+    "nombre" : "CF Black Wolf",
+    "direccion" : "Av. Ejercito Nacional  1401. . Monterrey. ",
+    "id" : "59c4c10b00220a53359e0648"
+},
+{
+    "_id" : "59c4c10b00220a53359e0655",
+    "legacy_id" : "315",
+    "nombre" : "CIIDET",
+    "direccion" : "Av. Universidad 282, Centro, El Retablo, 76000 Santiago de Querétaro, Qro.",
+    "id" : "59c4c10b00220a53359e0655"
+},
+{
+    "_id" : "59c4c10b00220a53359e0657",
+    "legacy_id" : "49",
+    "nombre" : "Citicinemas La isla",
+    "direccion" : "Av Cancún 1555. Fracc. Isla Musalá. Culiacán. ",
+    "id" : "59c4c10b00220a53359e0657"
+},
+{
+    "_id" : "59c4c10b00220a53359e066e",
+    "legacy_id" : "75",
+    "nombre" : "Ciudad Deportiva",
+    "direccion" : "Av. Almazán y Rodrigo Gómez . Col. Tierra y Libertad, Monterrey. Monterrey. ",
+    "id" : "59c4c10b00220a53359e066e"
+},
+{
+    "_id" : "59c4c10b00220a53359e0670",
+    "legacy_id" : "76",
+    "nombre" : "Ciudad Deportiva",
+    "direccion" : "Av. Churubusco y Francisco Beltrán S/N . Col. Venustiano Carranza, Monterrey. Monterrey. ",
+    "id" : "59c4c10b00220a53359e0670"
+},
+{
+    "_id" : "59c4c10b00220a53359e0672",
+    "legacy_id" : "130",
+    "nombre" : "Clínica Veterinaria “La Judí y Cuca”",
+    "direccion" : "Mariano Otero 745. Tequisquiapan. San Luis Potosí. ",
+    "id" : "59c4c10b00220a53359e0672"
+},
+{
+    "_id" : "59c4c10b00220a53359e0679",
+    "legacy_id" : "65",
+    "nombre" : "Club Junior, Condesa",
+    "direccion" : "Sindicalismo 3. Hipódromo Condesa. Hipodromo Condesa . ",
+    "id" : "59c4c10b00220a53359e0679"
+},
+{
+    "_id" : "59c4c10b00220a53359e067e",
+    "legacy_id" : "35",
+    "nombre" : "Colegio Columbia ",
+    "direccion" : "Bandojito 290. Hidalgo. . ",
+    "geopos" : {
+        "lat" : 19.399022,
+        "lng" : -99.206992
+    },
+    "id" : "59c4c10b00220a53359e067e"
+},
+{
+    "_id" : "59c4c10b00220a53359e0681",
+    "legacy_id" : "272",
+    "nombre" : "Colegio de la Ciudad de Mexico Contadero",
+    "direccion" : "Calle de la Bolsa 456",
+    "id" : "59c4c10b00220a53359e0681"
+},
+{
+    "_id" : "59c4c10b00220a53359e0692",
+    "legacy_id" : "22",
+    "nombre" : "Colegio Enrique Rebsamen",
+    "direccion" : "Rancho Tamboreo 14300. Coapa. Coapan. Ciudad de México",
+    "id" : "59c4c10b00220a53359e0692"
+},
+{
+    "_id" : "59c4c10b00220a53359e0695",
+    "legacy_id" : "182",
+    "nombre" : "Colegio Lancaster de Cuernavaca",
+    "direccion" : "Francisco González Bocanegra  #1. Col. Miguel Hidalgo. . Cuernavaca",
+    "id" : "59c4c10b00220a53359e0695"
+},
+{
+    "_id" : "59c4c10b00220a53359e069c",
+    "legacy_id" : "53",
+    "nombre" : "Congreso del Estado de Jalisco",
+    "direccion" : "Av. Hidalgo 222. Centro. Guadalajara. ",
+    "id" : "59c4c10b00220a53359e069c"
+},
+{
+    "_id" : "59c4c10c00220a53359e069e",
+    "legacy_id" : "101",
+    "nombre" : "COPARMEX Puebla",
+    "direccion" : "Av 11 Pte 1313. Barrio de Santiago. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04563,
+        "lng" : -98.21078
+    },
+    "id" : "59c4c10c00220a53359e069e"
+},
+{
+    "_id" : "59c4c10c00220a53359e06a0",
+    "legacy_id" : "147",
+    "nombre" : "Corporativo Home Depot",
+    "direccion" : "Av. Ricardo Margain Zozaya 605. Santa Engracia. San Pedro Garza García. ",
+    "id" : "59c4c10c00220a53359e06a0"
+},
+{
+    "_id" : "59c4c10c00220a53359e06a2",
+    "legacy_id" : "278",
+    "nombre" : "Cozumel 84",
+    "direccion" : "",
+    "id" : "59c4c10c00220a53359e06a2"
+},
+{
+    "_id" : "59c4c10c00220a53359e06a9",
+    "legacy_id" : "142",
+    "nombre" : "Creative Dreams",
+    "direccion" : "Calz San Pedro 104. Del Valle. San Pedro Garza García. ",
+    "id" : "59c4c10c00220a53359e06a9"
+},
+{
+    "_id" : "59c4c10c00220a53359e06ab",
+    "legacy_id" : "248",
+    "nombre" : "Cruz Roja Mexicana",
+    "direccion" : "Av. Emiliano Zapata 340. Santa Cruz Atoyac . Benito Juárez . Ciudad de México",
+    "geopos" : {
+        "lat" : 20.059108,
+        "lng" : -98.786502
+    },
+    "id" : "59c4c10c00220a53359e06ab"
+},
+{
+    "_id" : "59c4c10c00220a53359e06ad",
+    "legacy_id" : "77",
+    "nombre" : "Cruz Roja Mexicana Delegación Monterrey",
+    "direccion" : "Del Prado 64410. Del Prado . Monterrey. ",
+    "id" : "59c4c10c00220a53359e06ad"
+},
+{
+    "_id" : "59c4c10c00220a53359e06af",
+    "legacy_id" : "251",
+    "nombre" : "Cruz Roja Mexicana delgación Pachuca Norte",
+    "direccion" : "Av. Hidalgo 222. Centro. Guadalajara. ",
+    "geopos" : {
+        "lat" : 20.118853,
+        "lng" : -98.729454
+    },
+    "id" : "59c4c10c00220a53359e06af"
+},
+{
+    "_id" : "59c4c10c00220a53359e06b1",
+    "legacy_id" : "184",
+    "nombre" : "Cruz Roja Polanco",
+    "direccion" : "Luis Vives 200. Polanco. . ",
+    "geopos" : {
+        "lat" : 19.4377491,
+        "lng" : -99.2112153
+    },
+    "id" : "59c4c10c00220a53359e06b1"
+},
+{
+    "_id" : "59c4c10c00220a53359e06b9",
+    "legacy_id" : "185",
+    "nombre" : "Cruz Roja Polanco",
+    "direccion" : "Juan Luis Vives 200.  Col. Los Morales Polanco. . ",
+    "id" : "59c4c10c00220a53359e06b9"
+},
+{
+    "_id" : "59c4c10c00220a53359e06d1",
+    "legacy_id" : "280",
+    "nombre" : "Cruz Roja Queretaro",
+    "direccion" : "Av. Balaustradas con Circuito Estadio, Centro Sur",
+    "id" : "59c4c10c00220a53359e06d1"
+},
+{
+    "_id" : "59c4c10c00220a53359e06d3",
+    "legacy_id" : "255",
+    "nombre" : "Cuarta Visitaduría Derechos Humanos",
+    "direccion" : "Calz San Pedro 104. Del Valle. San Pedro Garza García. ",
+    "id" : "59c4c10c00220a53359e06d3"
+},
+{
+    "_id" : "59c4c10c00220a53359e06d7",
+    "legacy_id" : "318",
+    "nombre" : "Delegación Xochimilco",
+    "direccion" : "Vicente Guerrero 10, San Antonio, Xochimilco, CDMX",
+    "geopos" : {
+        "lat" : 19.2630356,
+        "lng" : -99.1050662
+    },
+    "id" : "59c4c10c00220a53359e06d7"
+},
+{
+    "_id" : "59c4c10c00220a53359e06dc",
+    "legacy_id" : "308",
+    "nombre" : "Destinare Viajes",
+    "direccion" : "Av. Vizcaínas 731, Carretas, 76050 Santiago de Querétaro, Qro.",
+    "id" : "59c4c10c00220a53359e06dc"
+},
+{
+    "_id" : "59c4c10c00220a53359e06de",
+    "legacy_id" : "28",
+    "nombre" : "DHL",
+    "direccion" : "Amores  144. Colonia del Valle centro. Benito Juarez. Ciudad de México",
+    "id" : "59c4c10c00220a53359e06de"
+},
+{
+    "_id" : "59c4c10c00220a53359e06e2",
+    "legacy_id" : "279",
+    "nombre" : "DIF Estatal",
+    "direccion" : "\nAv. Pasteur No. 6 A, Centro, 76000 ",
+    "id" : "59c4c10c00220a53359e06e2"
+},
+{
+    "_id" : "59c4c10c00220a53359e06e4",
+    "legacy_id" : "54",
+    "nombre" : "DIF Jalisco",
+    "direccion" : "Av. Alcalde 1220. Miraflores. Guadalajara. ",
+    "id" : "59c4c10c00220a53359e06e4"
+},
+{
+    "_id" : "59c4c10c00220a53359e06e6",
+    "legacy_id" : "102",
+    "nombre" : "DIF Puebla",
+    "direccion" : "Calle Cinco de Mayo 1606. Centro. Puebla. ",
+    "geopos" : {
+        "lat" : 19.05103,
+        "lng" : -98.1948
+    },
+    "id" : "59c4c10c00220a53359e06e6"
+},
+{
+    "_id" : "59c4c10c00220a53359e06e8",
+    "legacy_id" : "118",
+    "nombre" : "DIF Sabinas Hidalgo",
+    "direccion" : "Niños Heroes 600. Centro. Sabinas Hidalgo. ",
+    "id" : "59c4c10c00220a53359e06e8"
+},
+{
+    "_id" : "59c4c10c00220a53359e06ea",
+    "legacy_id" : "143",
+    "nombre" : "DIF San Pedro",
+    "direccion" : "Padre Mier 104. Los Sauces. San Pedro Garza García. ",
+    "geopos" : {
+        "lat" : 25.65923,
+        "lng" : 100.41277
+    },
+    "id" : "59c4c10c00220a53359e06ea"
+},
+{
+    "_id" : "59c4c10d00220a53359e0707",
+    "legacy_id" : "155",
+    "nombre" : "DIF Santiago",
+    "direccion" : "Jardines de la Boca 100. Jardines de la Boca. Santiago. ",
+    "id" : "59c4c10d00220a53359e0707"
+},
+{
+    "_id" : "59c4c10d00220a53359e0711",
+    "legacy_id" : "19",
+    "nombre" : "Dirección de ecología",
+    "direccion" : "Calle Lázaro Cárdenas No. 1205 . Col. López Mateos 2o Sector Cadereyta Jiménez, N.L. C.P. 67480. Cadereyta. Cadereyta",
+    "id" : "59c4c10d00220a53359e0711"
+},
+{
+    "_id" : "59c4c10d00220a53359e0713",
+    "legacy_id" : "289",
+    "nombre" : "DT Design (Mueblería Dettaglio)",
+    "direccion" : "Blvd. Bernardo Quintana 25, Pathe, 76020 ",
+    "id" : "59c4c10d00220a53359e0713"
+},
+{
+    "_id" : "59c4c10d00220a53359e0715",
+    "legacy_id" : "314",
+    "nombre" : "Dulces Panaderas",
+    "direccion" : "Ignacio Pérez #15 norte, entre Hidalgo y Av. del 57 ",
+    "id" : "59c4c10d00220a53359e0715"
+},
+{
+    "_id" : "59c4c10d00220a53359e0717",
+    "legacy_id" : "311",
+    "nombre" : "EDGE CrossFit",
+    "direccion" : "76902, Constituyentes 1095-2, Colonia, 76190 San José de los Olvera, Qro.",
+    "id" : "59c4c10d00220a53359e0717"
+},
+{
+    "_id" : "59c4c10d00220a53359e0719",
+    "legacy_id" : "310",
+    "nombre" : "Edge Crossfit Juriquilla",
+    "direccion" : "Av. Peñuelas #21, Parque Industrial Queretaro Park, Int. C6, Col. San Pedrito Peñuelas, 76148 Querétaro. ",
+    "id" : "59c4c10d00220a53359e0719"
+},
+{
+    "_id" : "59c4c10d00220a53359e071b",
+    "legacy_id" : "304",
+    "nombre" : "Edificio Parque Tecnologico",
+    "direccion" : "Estacionamiento de visitantes del Tecnologico de Monterrey",
+    "id" : "59c4c10d00220a53359e071b"
+},
+{
+    "_id" : "59c4c10d00220a53359e071d",
+    "legacy_id" : "257",
+    "nombre" : "El Colegio de México (COLMEX)",
+    "direccion" : "Carretera Picacho Ajusco 20, Col. Ampliación Fuentes del Pedregal, C.P. 14110 Tlalpan, Ciudad de México",
+    "id" : "59c4c10d00220a53359e071d"
+},
+{
+    "_id" : "59c4c10d00220a53359e0736",
+    "legacy_id" : "271",
+    "nombre" : "El Colegio de San Luis",
+    "direccion" : "Parque de Macul155Colinas del ParqueSan Luis Potosí",
+    "id" : "59c4c10d00220a53359e0736"
+},
+{
+    "_id" : "59c4c10d00220a53359e073c",
+    "legacy_id" : "222",
+    "nombre" : "El Encanto de Eva",
+    "direccion" : "Dr. José María Vértiz 1183. Letrán Valle. Benito Juárez. ",
+    "id" : "59c4c10d00220a53359e073c"
+},
+{
+    "_id" : "59c4c10d00220a53359e0740",
+    "legacy_id" : "55",
+    "nombre" : "El Rey",
+    "direccion" : "Bernardo de Balbuena 124. . Guadalajara. ",
+    "id" : "59c4c10d00220a53359e0740"
+},
+{
+    "_id" : "59c4c10d00220a53359e0742",
+    "legacy_id" : "313",
+    "nombre" : "Empresa ECCO México",
+    "direccion" : "Ignacio Pérez #15 norte, entre Hidalgo y Av. del 57 ",
+    "id" : "59c4c10d00220a53359e0742"
+},
+{
+    "_id" : "59c4c10d00220a53359e0746",
+    "legacy_id" : "122",
+    "nombre" : "Escuela Centenario ",
+    "direccion" : "Juárez 974. Centro. Saltillo. ",
+    "id" : "59c4c10d00220a53359e0746"
+},
+{
+    "_id" : "59c4c10e00220a53359e075f",
+    "legacy_id" : "94",
+    "nombre" : "Escuela ciencias de la salud",
+    "direccion" : "Giov S/N. Río Escondido. Piedras Negras . ",
+    "id" : "59c4c10e00220a53359e075f"
+},
+{
+    "_id" : "59c4c10e00220a53359e0761",
+    "legacy_id" : "103",
+    "nombre" : "Escuela de Enfermería",
+    "direccion" : "Av. 20 Ote 1001. Centro. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04794,
+        "lng" : -98.18818
+    },
+    "id" : "59c4c10e00220a53359e0761"
+},
+{
+    "_id" : "59c4c10e00220a53359e0765",
+    "legacy_id" : "270",
+    "nombre" : "Escuela Plan de Guadalupe",
+    "direccion" : "",
+    "id" : "59c4c10e00220a53359e0765"
+},
+{
+    "_id" : "59c4c10e00220a53359e0767",
+    "legacy_id" : "244",
+    "nombre" : "Escuela Sierra Nevada Lomas",
+    "direccion" : "Escocia 26. Del Valle. . ",
+    "id" : "59c4c10e00220a53359e0767"
+},
+{
+    "_id" : "59c4c10e00220a53359e076d",
+    "legacy_id" : "281",
+    "nombre" : "Estacion de Bomberos 1 ESTACION CENTRAL",
+    "direccion" : "Estación Central Zaragoza #90",
+    "id" : "59c4c10e00220a53359e076d"
+},
+{
+    "_id" : "59c4c10e00220a53359e0775",
+    "legacy_id" : "282",
+    "nombre" : "Estacion de Bomberos 2",
+    "direccion" : "Acceso A. #105, P.I Jurica",
+    "id" : "59c4c10e00220a53359e0775"
+},
+{
+    "_id" : "59c4c10e00220a53359e0777",
+    "legacy_id" : "283",
+    "nombre" : "Estacion de Bomberos 3",
+    "direccion" : "Mimiahuapan #610, Vista Alegre",
+    "id" : "59c4c10e00220a53359e0777"
+},
+{
+    "_id" : "59c4c10e00220a53359e0779",
+    "legacy_id" : "284",
+    "nombre" : "Estacion de Bomberos 4",
+    "direccion" : "Euripides #40, San Pedrito Peñuelas",
+    "id" : "59c4c10e00220a53359e0779"
+},
+{
+    "_id" : "59c4c10e00220a53359e077b",
+    "legacy_id" : "285",
+    "nombre" : "Estacion de Bomberos 5",
+    "direccion" : "Paseo Querétaro, El Romerillal, 76118 ",
+    "id" : "59c4c10e00220a53359e077b"
+},
+{
+    "_id" : "59c4c10e00220a53359e077d",
+    "legacy_id" : "131",
+    "nombre" : "Estadio Alfonso Lastras",
+    "direccion" : "Malaquita  1030. Valle Dorado. San Luis Potosí. ",
+    "id" : "59c4c10e00220a53359e077d"
+},
+{
+    "_id" : "59c4c10e00220a53359e0782",
+    "legacy_id" : "63",
+    "nombre" : "Estadio BBVA Bancomer",
+    "direccion" : "Pablo Livas 2011. La Pastora. Guadalupe. ",
+    "id" : "59c4c10e00220a53359e0782"
+},
+{
+    "_id" : "59c4c10e00220a53359e0790",
+    "legacy_id" : "294",
+    "nombre" : "Estadio Corregidora",
+    "direccion" : "\nAvenidas de las Torres S/N, Centro Sur, 76090 ",
+    "id" : "59c4c10e00220a53359e0790"
+},
+{
+    "_id" : "59c4c10e00220a53359e0792",
+    "legacy_id" : "137",
+    "nombre" : "Estadio de Beisbol Monterrey",
+    "direccion" : "Av. Manuel L. Barragán S/N. Parque Niños Héroes. San Nicolás de los Garza. ",
+    "id" : "59c4c10e00220a53359e0792"
+},
+{
+    "_id" : "59c4c10e00220a53359e0794",
+    "legacy_id" : "138",
+    "nombre" : "Estadio Universitario UANL",
+    "direccion" : "Ciudad Universitaria SN. Parque Niños Héroes. San Nicolás de los Garza. ",
+    "id" : "59c4c10e00220a53359e0794"
+},
+{
+    "_id" : "59c4c10e00220a53359e07a0",
+    "legacy_id" : "186",
+    "nombre" : "Expo Santa Fe",
+    "direccion" : " . . . ",
+    "id" : "59c4c10e00220a53359e07a0"
+},
+{
+    "_id" : "59c4c10e00220a53359e07a2",
+    "legacy_id" : "56",
+    "nombre" : "Fábrica de Diseño Mexicano",
+    "direccion" : "Joaquín Arrieta 33A. . Guadalajara. ",
+    "id" : "59c4c10e00220a53359e07a2"
+},
+{
+    "_id" : "59c4c10e00220a53359e07a4",
+    "legacy_id" : "247",
+    "nombre" : "Ferremayoristas Olvera SA de CV",
+    "direccion" : "Calle Ignacio Zaragoza 90. Centro. . ",
+    "id" : "59c4c10e00220a53359e07a4"
+},
+{
+    "_id" : "59c4c10f00220a53359e07aa",
+    "legacy_id" : "312",
+    "nombre" : "Ferremayoristas Olvera SA de CV",
+    "direccion" : "Av. Peñuelas 12. Col. Fraccionamiento San Pedrito Peñuelas",
+    "id" : "59c4c10f00220a53359e07aa"
+},
+{
+    "_id" : "59c4c10f00220a53359e07ac",
+    "legacy_id" : "46",
+    "nombre" : "FES Cuautitlán , puerta 4 ",
+    "direccion" : "km 2.5 Carretera Cuautitlan- teoloyuca  s/n . San sebastián Xhala . Cuautitlan Izcalli. ",
+    "geopos" : {
+        "lat" : 19.692583,
+        "lng" : -99.189974
+    },
+    "id" : "59c4c10f00220a53359e07ac"
+},
+{
+    "_id" : "59c4c10f00220a53359e07b0",
+    "legacy_id" : "47",
+    "nombre" : "FES Cuautitlán Campo 1",
+    "direccion" : "Ave. 1 de Mayo  s/n. Santa Maria las Torres. Cuautitlán Izcalli. ",
+    "geopos" : {
+        "lat" : 19.638089,
+        "lng" : -99.206444
+    },
+    "id" : "59c4c10f00220a53359e07b0"
+},
+{
+    "_id" : "59c4c10f00220a53359e07b3",
+    "legacy_id" : "233",
+    "nombre" : "Fonart Patriotismo",
+    "direccion" : "Av. constituyentes  -293987. El Pocito. Corregidora. ",
+    "id" : "59c4c10f00220a53359e07b3"
+},
+{
+    "_id" : "59c4c10f00220a53359e07b5",
+    "legacy_id" : "164",
+    "nombre" : "Foro Landó",
+    "direccion" : "Nicolás Bravo Norte. 825, Union . Toluca. Toluca. ",
+    "id" : "59c4c10f00220a53359e07b5"
+},
+{
+    "_id" : "59c4c10f00220a53359e07b7",
+    "legacy_id" : "253",
+    "nombre" : "Fuente de las cibeles",
+    "direccion" : "Joaquín Arrieta 33A. . Guadalajara. ",
+    "id" : "59c4c10f00220a53359e07b7"
+},
+{
+    "_id" : "59c4c10f00220a53359e07ba",
+    "legacy_id" : "209",
+    "nombre" : "Fuente de Pirámides 37",
+    "direccion" : "Fuente de Pirámides  37. Tecamachalco. . ",
+    "geopos" : {
+        "lat" : 19.425924,
+        "lng" : -99.22663
+    },
+    "id" : "59c4c10f00220a53359e07ba"
+},
+{
+    "_id" : "59c4c10f00220a53359e07bc",
+    "legacy_id" : "161",
+    "nombre" : "Fuera del Clóset A.C. (Café Guarida del Zorro)",
+    "direccion" : "Hermenegildo Galeana 211. Centro. Toluca. ",
+    "id" : "59c4c10f00220a53359e07bc"
+},
+{
+    "_id" : "59c4c10f00220a53359e07c2",
+    "legacy_id" : "162",
+    "nombre" : "Fuera del Clóset A.C. (Libreria Imagen)",
+    "direccion" : "Venustiano Carranza 305. Universidad. Toluca. ",
+    "id" : "59c4c10f00220a53359e07c2"
+},
+{
+    "_id" : "59c4c10f00220a53359e07c8",
+    "legacy_id" : "123",
+    "nombre" : "Fundación Luz y Esperanza ",
+    "direccion" : " 6 de enero 104. Centenario. Saltillo . ",
+    "id" : "59c4c10f00220a53359e07c8"
+},
+{
+    "_id" : "59c4c10f00220a53359e07f4",
+    "legacy_id" : "245",
+    "nombre" : "Gaspacho",
+    "direccion" : " . . . ",
+    "id" : "59c4c10f00220a53359e07f4"
+},
+{
+    "_id" : "59c4c10f00220a53359e07ff",
+    "legacy_id" : "10",
+    "nombre" : "Gimnasio G3",
+    "direccion" : "Calle k 15 SN. Tolteca. Alvaro Obregon. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.3879044,
+        "lng" : -99.2016178
+    },
+    "id" : "59c4c10f00220a53359e07ff"
+},
+{
+    "_id" : "59c4c11000220a53359e0817",
+    "legacy_id" : "37",
+    "nombre" : "Glorieta de las Cibeles",
+    "direccion" : "Oaxaca y Durango . Roma Norte. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.4196927,
+        "lng" : -99.1679135
+    },
+    "id" : "59c4c11000220a53359e0817"
+},
+{
+    "_id" : "59c4c11000220a53359e0819",
+    "legacy_id" : "187",
+    "nombre" : "Glorieta de Masaryk",
+    "direccion" : " . Polanco. . ",
+    "geopos" : {
+        "lat" : 19.4315679,
+        "lng" : -99.1956901
+    },
+    "id" : "59c4c11000220a53359e0819"
+},
+{
+    "_id" : "59c4c11000220a53359e081b",
+    "legacy_id" : "43",
+    "nombre" : "Glorieta de Popocatéptl",
+    "direccion" : "",
+    "id" : "59c4c11000220a53359e081b"
+},
+{
+    "_id" : "59c4c11000220a53359e081d",
+    "legacy_id" : "104",
+    "nombre" : "Grupo Oro",
+    "direccion" : "Av Teziutlan Sur 17. La Paz. Puebla. ",
+    "geopos" : {
+        "lat" : 19.05385,
+        "lng" : -98.22507
+    },
+    "id" : "59c4c11000220a53359e081d"
+},
+{
+    "_id" : "59c4c11000220a53359e0824",
+    "legacy_id" : "188",
+    "nombre" : "Grupo Pullman CDMX",
+    "direccion" : "Av Taxqueña  1800. Coyoacan. . ",
+    "id" : "59c4c11000220a53359e0824"
+},
+{
+    "_id" : "59c4c11000220a53359e082c",
+    "legacy_id" : "48",
+    "nombre" : "Grupo Pullman Morelos ",
+    "direccion" : "Plan de Ayala  102. Col El Vergel . Cuernavaca. ",
+    "geopos" : {
+        "lat" : 18.927462,
+        "lng" : -99.229837
+    },
+    "id" : "59c4c11000220a53359e082c"
+},
+{
+    "_id" : "59c4c11000220a53359e0836",
+    "legacy_id" : "79",
+    "nombre" : "HACSYS",
+    "direccion" : "Ecuador 121. Vista Hermosa. Monterrey. ",
+    "id" : "59c4c11000220a53359e0836"
+},
+{
+    "_id" : "59c4c11000220a53359e083d",
+    "legacy_id" : "144",
+    "nombre" : "HEB Gómez Morin",
+    "direccion" : "Av. Gomez Morin 300. Valle Campestre. San Pedro Garza García. ",
+    "id" : "59c4c11000220a53359e083d"
+},
+{
+    "_id" : "59c4c11000220a53359e083f",
+    "legacy_id" : "80",
+    "nombre" : "HEB Gonzalitos",
+    "direccion" : "JE Gonzalez 315. Jardines. Monterrey. ",
+    "id" : "59c4c11000220a53359e083f"
+},
+{
+    "_id" : "59c4c11000220a53359e0841",
+    "legacy_id" : "81",
+    "nombre" : "HEB Valle Alto ",
+    "direccion" : "Carretera Nacional  S/N . Lomas de Valle Alto. Monterrey. ",
+    "id" : "59c4c11000220a53359e0841"
+},
+{
+    "_id" : "59c4c11000220a53359e085c",
+    "legacy_id" : "275",
+    "nombre" : "Instituto Cultural CTJ ",
+    "direccion" : "",
+    "id" : "59c4c11000220a53359e085c"
+},
+{
+    "_id" : "59c4c10b00220a53359e0646",
+    "legacy_id" : "216",
+    "nombre" : "Cerrada de Risco",
+    "direccion" : "Cerrada de Risco 133. . . ",
+    "id" : "59c4c10b00220a53359e0646"
+},
+{
+    "_id" : "59c4c11000220a53359e0834",
+    "legacy_id" : "309",
+    "nombre" : "GUBETES",
+    "direccion" : "\nIndependencia 29, Juriquilla, Qro.",
+    "id" : "59c4c11000220a53359e0834"
+},
+{
+    "_id" : "59c4c11000220a53359e0843",
+    "legacy_id" : "145",
+    "nombre" : "HEB Valle Oriente",
+    "direccion" : "Monumento Italia S/N . Valle Oriente. San Pedro Garza García. ",
+    "id" : "59c4c11000220a53359e0843"
+},
+{
+    "_id" : "59c4c11000220a53359e0845",
+    "legacy_id" : "212",
+    "nombre" : "Heriberto Frías 819",
+    "direccion" : "Heriberto Frias 819. Del Valle. . ",
+    "id" : "59c4c11000220a53359e0845"
+},
+{
+    "_id" : "59c4c11000220a53359e0847",
+    "legacy_id" : "128",
+    "nombre" : "Hospital del Niño Poblano",
+    "direccion" : "Concepción la Cruz 72190. Reserva Territorial Atlixcáyotl. San Andrés Cholula. ",
+    "geopos" : {
+        "lat" : 19.03353,
+        "lng" : -98.24428
+    },
+    "id" : "59c4c11000220a53359e0847"
+},
+{
+    "_id" : "59c4c11000220a53359e0849",
+    "legacy_id" : "95",
+    "nombre" : "Hospital General",
+    "direccion" : "Blvd. Centenario  901. Ejido Piedras Negras. Piedras Negras . ",
+    "id" : "59c4c11000220a53359e0849"
+},
+{
+    "_id" : "59c4c11000220a53359e084b",
+    "legacy_id" : "38",
+    "nombre" : "Huerto Roma Verde",
+    "direccion" : "Jalapa 234. Roma. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.411492,
+        "lng" : -99.159675
+    },
+    "id" : "59c4c11000220a53359e084b"
+},
+{
+    "_id" : "59c4c11000220a53359e084e",
+    "legacy_id" : "241",
+    "nombre" : "Ilumexico",
+    "direccion" : "Ecuador 121. Vista Hermosa. Monterrey. ",
+    "id" : "59c4c11000220a53359e084e"
+},
+{
+    "_id" : "59c4c11000220a53359e0856",
+    "legacy_id" : "105",
+    "nombre" : "Imagen Puebla",
+    "direccion" : "Blvd. Kepler S/N. Reserva Territorial Atlixcáyotl. Puebla. ",
+    "geopos" : {
+        "lat" : 19.02369,
+        "lng" : -98.23432
+    },
+    "id" : "59c4c11000220a53359e0856"
+},
+{
+    "_id" : "59c4c11000220a53359e0858",
+    "legacy_id" : "307",
+    "nombre" : "Innovation Workshop  www.iw.digital",
+    "direccion" : "Fray Junipero Serra 21 Col. Bosques del Acueducto",
+    "id" : "59c4c11000220a53359e0858"
+},
+{
+    "_id" : "59c4c11000220a53359e085a",
+    "legacy_id" : "57",
+    "nombre" : "Instalaciones Nueva Alianza",
+    "direccion" : "Chapala 17. Vallarta Poniente. Guadalajara. ",
+    "id" : "59c4c11000220a53359e085a"
+},
+{
+    "_id" : "59c4c11100220a53359e086c",
+    "legacy_id" : "30",
+    "nombre" : "Instituto Mexicano Madero plantel Centro",
+    "direccion" : "17 poniente  503. Centro. . ",
+    "geopos" : {
+        "lat" : 19.039729,
+        "lng" : -98.205662
+    },
+    "id" : "59c4c11100220a53359e086c"
+},
+{
+    "_id" : "59c4c11100220a53359e0871",
+    "legacy_id" : "166",
+    "nombre" : "Instituto México de Toluca A.C. (Primaria)",
+    "direccion" : "Rafael M. Hidalgo 900. Américas Cárdenas. Toluca. ",
+    "id" : "59c4c11100220a53359e0871"
+},
+{
+    "_id" : "59c4c11100220a53359e0876",
+    "legacy_id" : "165",
+    "nombre" : "Instituto México de Toluca A.C. (Primaria)- Cielito Querido",
+    "direccion" : "Av. Carranza . Toluca. Toluca. ",
+    "id" : "59c4c11100220a53359e0876"
+},
+{
+    "_id" : "59c4c11100220a53359e087b",
+    "legacy_id" : "189",
+    "nombre" : "Instituto Nacional de Pediatria",
+    "direccion" : "Avenida del Iman . . . ",
+    "id" : "59c4c11100220a53359e087b"
+},
+{
+    "_id" : "59c4c11100220a53359e087d",
+    "legacy_id" : "121",
+    "nombre" : "Insurgentes y Gaspar Ibarra",
+    "direccion" : "Av. Insurgentes S/N Esq. Gaspar Ibarra . Col. Miguel Hidalgo. Sabinas Hidalgo. ",
+    "id" : "59c4c11100220a53359e087d"
+},
+{
+    "_id" : "59c4c11100220a53359e087f",
+    "legacy_id" : "295",
+    "nombre" : "Intégrate Querétaro",
+    "direccion" : "76050, Av Plateros 207, Carretas, 76050 ",
+    "id" : "59c4c11100220a53359e087f"
+},
+{
+    "_id" : "59c4c11100220a53359e0881",
+    "legacy_id" : "276",
+    "nombre" : "IPN ESIME Zacatenco",
+    "direccion" : "",
+    "id" : "59c4c11100220a53359e0881"
+},
+{
+    "_id" : "59c4c11100220a53359e0891",
+    "legacy_id" : "21",
+    "nombre" : "ISSEMYM ",
+    "direccion" : "Constituyentes Pte.  703. La Merced. Toluca. Toluca",
+    "id" : "59c4c11100220a53359e0891"
+},
+{
+    "_id" : "59c4c11100220a53359e0894",
+    "legacy_id" : "215",
+    "nombre" : "ITAM",
+    "direccion" : "Río Hondo 1. Progreso Tizapan. Álvaro Obregón. ",
+    "id" : "59c4c11100220a53359e0894"
+},
+{
+    "_id" : "59c4c11100220a53359e0897",
+    "legacy_id" : "172",
+    "nombre" : "ITAM - Deli Café",
+    "direccion" : "Río Hondo 1. Col. Progreso Tizapán. Álvaro Obregón. ",
+    "id" : "59c4c11100220a53359e0897"
+},
+{
+    "_id" : "59c4c11100220a53359e089f",
+    "legacy_id" : "249",
+    "nombre" : "ITESM Campus Hidalgo",
+    "direccion" : "Av. Insurgentes S/N Esq. Gaspar Ibarra . Col. Miguel Hidalgo. Sabinas Hidalgo. ",
+    "geopos" : {
+        "lat" : 20.096422,
+        "lng" : -98.765892
+    },
+    "id" : "59c4c11100220a53359e089f"
+},
+{
+    "_id" : "59c4c11100220a53359e08a5",
+    "legacy_id" : "299",
+    "nombre" : "IZAMAL (restaurante cochinita pibil)",
+    "direccion" : "\nloc1, Hidalgo 18, Privada de las Capillas, 76900 El Pueblito",
+    "id" : "59c4c11100220a53359e08a5"
+},
+{
+    "_id" : "59c4c11100220a53359e08a7",
+    "legacy_id" : "267",
+    "nombre" : "Jalisco",
+    "direccion" : "Calle Jalisco S/N entre Lago de Pátzcuaro y Laguna de San Marcos . Col. Tanques de Guadalupe, C.P. 64720. Monterrey. ",
+    "id" : "59c4c11100220a53359e08a7"
+},
+{
+    "_id" : "59c4c11100220a53359e08a9",
+    "legacy_id" : "236",
+    "nombre" : "Jonacatepec",
+    "direccion" : "#REF!",
+    "id" : "59c4c11100220a53359e08a9"
+},
+{
+    "_id" : "59c4c11100220a53359e08ab",
+    "legacy_id" : "125",
+    "nombre" : "Joroba Saltillo",
+    "direccion" : "Frente la joroba . Carretera Saltillo-Monterrey. Saltillo . ",
+    "id" : "59c4c11100220a53359e08ab"
+},
+{
+    "_id" : "59c4c11200220a53359e08d7",
+    "legacy_id" : "262",
+    "nombre" : "José Vivanco",
+    "direccion" : "",
+    "id" : "59c4c11200220a53359e08d7"
+},
+{
+    "_id" : "59c4c11200220a53359e08d9",
+    "legacy_id" : "274",
+    "nombre" : "Junta Distrital 10. Instituto Nacional Electoral",
+    "direccion" : "Av. Parque Lira No. 30. Col. Ampliación Daniel Garza, Cp. 11830. Delegación Miguel Hidalgo",
+    "id" : "59c4c11200220a53359e08d9"
+},
+{
+    "_id" : "59c4c11200220a53359e08e1",
+    "legacy_id" : "139",
+    "nombre" : "KIA Sendero",
+    "direccion" : "Av. Sendero 202. Residencial Casa Bella. San Nicolás de los Garza. ",
+    "id" : "59c4c11200220a53359e08e1"
+},
+{
+    "_id" : "59c4c11200220a53359e08e3",
+    "legacy_id" : "156",
+    "nombre" : "La Casa de la Abuela",
+    "direccion" : "Morelos 114. Villa de Santiago. Santiago. ",
+    "id" : "59c4c11200220a53359e08e3"
+},
+{
+    "_id" : "59c4c11200220a53359e08e6",
+    "legacy_id" : "317",
+    "nombre" : "La Casa de la Abuela",
+    "direccion" : "Morelos 114. Villa de Santiago. Santiago. ",
+    "id" : "59c4c11200220a53359e08e6"
+},
+{
+    "_id" : "59c4c11200220a53359e08e9",
+    "legacy_id" : "36",
+    "nombre" : "La Casa del Mestizo",
+    "direccion" : "31 . Roma Sur. Cuauhtémoc. ",
+    "id" : "59c4c11200220a53359e08e9"
+},
+{
+    "_id" : "59c4c11200220a53359e08ec",
+    "legacy_id" : "39",
+    "nombre" : "La Guapachosa",
+    "direccion" : "Oaxaca 31. Roma Norte. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.4220764,
+        "lng" : -99.1668697
+    },
+    "id" : "59c4c11200220a53359e08ec"
+},
+{
+    "_id" : "59c4c11200220a53359e08ee",
+    "legacy_id" : "132",
+    "nombre" : "La Oveja Churra",
+    "direccion" : "Venustiano Carranza 2120, planta alta. Del Valle. San Luis Potosí. ",
+    "id" : "59c4c11200220a53359e08ee"
+},
+{
+    "_id" : "59c4c11200220a53359e08f1",
+    "legacy_id" : "169",
+    "nombre" : "La Santa",
+    "direccion" : "Av. Real Acueducto 371. . Zapopan. ",
+    "id" : "59c4c11200220a53359e08f1"
+},
+{
+    "_id" : "59c4c11200220a53359e08f3",
+    "legacy_id" : "300",
+    "nombre" : "Laboratorios Clínicos Eureka",
+    "direccion" : "Calle Ignacio Pérez 5, Centro, 76000 ",
+    "id" : "59c4c11200220a53359e08f3"
+},
+{
+    "_id" : "59c4c11200220a53359e08f5",
+    "legacy_id" : "258",
+    "nombre" : "Lago Tanganica",
+    "direccion" : "Lago Tanganica 67, Granada, Miguel Hidalgo, CDMX",
+    "id" : "59c4c11200220a53359e08f5"
+},
+{
+    "_id" : "59c4c11200220a53359e0908",
+    "legacy_id" : "228",
+    "nombre" : "Le Macaron boutique",
+    "direccion" : "Av. SenderoMorelosMorelos31OaxacaVenustiano CarranzaAv. Real Acueducto 202114114312120, planta alta371. Residencial Casa BellaVilla de SantiagoVilla de SantiagoRoma SurRoma NorteDel Valle. San Nicolás de los GarzaSantiagoSantiagoCuauhtémocCuauhtémocSan Luis PotosíZapopan. ",
+    "geopos" : {
+        "lat" : 19.4277028,
+        "lng" : 99.1987579
+    },
+    "id" : "59c4c11200220a53359e0908"
+},
+{
+    "_id" : "59c4c11200220a53359e090a",
+    "legacy_id" : "229",
+    "nombre" : "Le Macaron boutique",
+    "direccion" : "Av. Real AcueductoIgnacio Perez 3715. Centro. Zapopan. ",
+    "geopos" : {
+        "lat" : 19.4212551,
+        "lng" : -99.2096459
+    },
+    "id" : "59c4c11200220a53359e090a"
+},
+{
+    "_id" : "59c4c11200220a53359e090c",
+    "legacy_id" : "146",
+    "nombre" : "Liceo de Monterrey",
+    "direccion" : "Humberto Junco Voigt SN. Valle Oriente. San Pedro Garza García. ",
+    "id" : "59c4c11200220a53359e090c"
+},
+{
+    "_id" : "59c4c11200220a53359e0911",
+    "legacy_id" : "297",
+    "nombre" : "Liceo Estudios Superiores",
+    "direccion" : "Av. del Parque 1100, zona dos extendida, Lazaro, 76087 ",
+    "id" : "59c4c11200220a53359e0911"
+},
+{
+    "_id" : "59c4c11200220a53359e0913",
+    "legacy_id" : "11",
+    "nombre" : "Liga Maya",
+    "direccion" : "Av. 5 de mayo y calzada de los Leones SN. Merced Gomez. Alvaro Obregon . Ciudad de México",
+    "geopos" : {
+        "lat" : 19.3647056,
+        "lng" : -99.2664236
+    },
+    "id" : "59c4c11200220a53359e0913"
+},
+{
+    "_id" : "59c4c11200220a53359e0916",
+    "legacy_id" : "26",
+    "nombre" : "Locatel",
+    "direccion" : "Héroes del 47  113. San Diego Churubusco. Coyoacán. Ciudad de México",
+    "id" : "59c4c11200220a53359e0916"
+},
+{
+    "_id" : "59c4c11300220a53359e0919",
+    "legacy_id" : "199",
+    "nombre" : "Mariano Escobedo 498",
+    "direccion" : "Mariano Escobedo 498. Anzures. . ",
+    "geopos" : {
+        "lat" : 19.4323308,
+        "lng" : -99.1834626
+    },
+    "id" : "59c4c11300220a53359e0919"
+},
+{
+    "_id" : "59c4c11300220a53359e091c",
+    "legacy_id" : "214",
+    "nombre" : "Mazda San Ángel",
+    "direccion" : "Av de los Insurgentes Sur , San Ángel. 2084. san angel . . ",
+    "id" : "59c4c11300220a53359e091c"
+},
+{
+    "_id" : "59c4c11300220a53359e091e",
+    "legacy_id" : "106",
+    "nombre" : "McCarthys Irish Pub",
+    "direccion" : "Av. 43 Ote 202. Carmen Huxotitla. Puebla. ",
+    "geopos" : {
+        "lat" : 19.02704,
+        "lng" : -98.20639
+    },
+    "id" : "59c4c11300220a53359e091e"
+},
+{
+    "_id" : "59c4c11300220a53359e0920",
+    "legacy_id" : "140",
+    "nombre" : "Michi Clínica Veterinaria",
+    "direccion" : "Av. Diego Díaz de Berlanga (Frente al S Mart de Diego Díaz de Berlanga) 172, local 7. Villas de Santo Domingo. San Nicolás de los Garza. ",
+    "geopos" : {
+        "lat" : 25.74918,
+        "lng" : -100.2591347
+    },
+    "id" : "59c4c11300220a53359e0920"
+},
+{
+    "_id" : "59c4c11300220a53359e0928",
+    "legacy_id" : "120",
+    "nombre" : "Mier y Terán 1500",
+    "direccion" : "Calle Mier y Terán N° 1500 entre Pablo Livas y Raúl Rangel . Col. Alfonso Martínez Domínguez. Sabinas Hidalgo. ",
+    "id" : "59c4c11300220a53359e0928"
+},
+{
+    "_id" : "59c4c11300220a53359e0937",
+    "legacy_id" : "191",
+    "nombre" : "Monterrey 232 ",
+    "direccion" : "Monterrey 232. Roma. . Ciudad de México",
+    "id" : "59c4c11300220a53359e0937"
+},
+{
+    "_id" : "59c4c11300220a53359e0939",
+    "legacy_id" : "273",
+    "nombre" : "Moras 416",
+    "direccion" : "",
+    "id" : "59c4c11300220a53359e0939"
+},
+{
+    "_id" : "59c4c11300220a53359e093d",
+    "legacy_id" : "192",
+    "nombre" : "Multiforo Alicia",
+    "direccion" : "Av. Cuauhtemoc 91A. Roma. . ",
+    "id" : "59c4c11300220a53359e093d"
+},
+{
+    "_id" : "59c4c11300220a53359e093f",
+    "legacy_id" : "82",
+    "nombre" : "Museo Marco",
+    "direccion" : "Juan Zuazua SN. Centro. Monterrey. ",
+    "id" : "59c4c11300220a53359e093f"
+},
+{
+    "_id" : "59c4c11300220a53359e0944",
+    "legacy_id" : "170",
+    "nombre" : "Museo Trompo Mágico",
+    "direccion" : "Av. Central 750. Fraccionamiento Residencial Poniente. Zapopan. ",
+    "id" : "59c4c11300220a53359e0944"
+},
+{
+    "_id" : "59c4c11300220a53359e0946",
+    "legacy_id" : "107",
+    "nombre" : "NARCISO Puebla",
+    "direccion" : "Cto. Juan Pablo II  1703. Rivera del Atoyac. Puebla. ",
+    "geopos" : {
+        "lat" : 19.030509,
+        "lng" : -98.2247789
+    },
+    "id" : "59c4c11300220a53359e0946"
+},
+{
+    "_id" : "59c4c11300220a53359e094c",
+    "legacy_id" : "293",
+    "nombre" : "Notaria 38",
+    "direccion" : "Blvd. Centro Sur 63, Colinas del Cimatario, 76090 ",
+    "id" : "59c4c11300220a53359e094c"
+},
+{
+    "_id" : "59c4c11300220a53359e094e",
+    "legacy_id" : "83",
+    "nombre" : "OCA Hospital",
+    "direccion" : "Av Pino Suarez 645. Centro. Monterrey. ",
+    "id" : "59c4c11300220a53359e094e"
+},
+{
+    "_id" : "59c4c11300220a53359e0954",
+    "legacy_id" : "17",
+    "nombre" : "Oficina Protección Civil ",
+    "direccion" : "Abraham Gonzáez  67. Juárez. . Ciudad de México",
+    "id" : "59c4c11300220a53359e0954"
+},
+{
+    "_id" : "59c4c11300220a53359e095b",
+    "legacy_id" : "108",
+    "nombre" : "ONCE Comunicación",
+    "direccion" : "Blvrd Norte 1814. Villa San Alejandro. Puebla. ",
+    "geopos" : {
+        "lat" : 19.06267,
+        "lng" : -98.21578
+    },
+    "id" : "59c4c11300220a53359e095b"
+},
+{
+    "_id" : "59c4c11300220a53359e095d",
+    "legacy_id" : "84",
+    "nombre" : "Pabellón M",
+    "direccion" : "Av. Constitución SN. Centro. Monterrey. ",
+    "id" : "59c4c11300220a53359e095d"
+},
+{
+    "_id" : "59c4c11300220a53359e095f",
+    "legacy_id" : "40",
+    "nombre" : "Palacio de Hierro Durango (Terraza)",
+    "direccion" : "Durango 230. Roma Norte. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.4187278,
+        "lng" : -99.1708786
+    },
+    "id" : "59c4c11300220a53359e095f"
+},
+{
+    "_id" : "59c4c11300220a53359e0964",
+    "legacy_id" : "148",
+    "nombre" : "Panem Metropolitan Center",
+    "direccion" : "Av. Lázaro Cárdenas 2400. Valle Oriente. San Pedro Garza García. ",
+    "geopos" : {
+        "lat" : 25.6505227,
+        "lng" : -100.3338882
+    },
+    "id" : "59c4c11300220a53359e0964"
+},
+{
+    "_id" : "59c4c11400220a53359e097b",
+    "legacy_id" : "85",
+    "nombre" : "Parque Canoas",
+    "direccion" : "Av. Eugenio Garza Sada S/N. Camino al diente . Col. Condesa. Monterrey. ",
+    "id" : "59c4c11400220a53359e097b"
+},
+{
+    "_id" : "59c4c11400220a53359e097d",
+    "legacy_id" : "254",
+    "nombre" : "Parque Deportivo Miguel Alemán",
+    "direccion" : "Dr. José María Vértiz 1183. Letrán Valle. Benito Juárez. ",
+    "id" : "59c4c11400220a53359e097d"
+},
+{
+    "_id" : "59c4c11400220a53359e0982",
+    "legacy_id" : "41",
+    "nombre" : "Parque España",
+    "direccion" : "Av. Sonora S/N. Roma. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.4161958,
+        "lng" : -99.173079
+    },
+    "id" : "59c4c11400220a53359e0982"
+},
+{
+    "_id" : "59c4c11400220a53359e0985",
+    "legacy_id" : "86",
+    "nombre" : "Parque España",
+    "direccion" : "Av. Morones Prieto S/N  . Col. Buenos Aires. Monterrey. ",
+    "id" : "59c4c11400220a53359e0985"
+},
+{
+    "_id" : "59c4c11400220a53359e0987",
+    "legacy_id" : "160",
+    "nombre" : "Parque Metropolitano",
+    "direccion" : "Av. Juarez ---. Metepec. Toluca. ",
+    "geopos" : {
+        "lat" : 19.2708194,
+        "lng" : -99.6529133
+    },
+    "id" : "59c4c11400220a53359e0987"
+},
+{
+    "_id" : "59c4c11400220a53359e098d",
+    "legacy_id" : "42",
+    "nombre" : "Parque México",
+    "direccion" : "Av. México  S/N. Condesa. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.411927,
+        "lng" : -99.1712944
+    },
+    "id" : "59c4c11400220a53359e098d"
+},
+{
+    "_id" : "59c4c11400220a53359e0992",
+    "legacy_id" : "252",
+    "nombre" : "Parque Pombo",
+    "direccion" : "Calz General Mariano Escobedo 137. Los Manzanos. Miguel Hidalgo. ",
+    "id" : "59c4c11400220a53359e0992"
+},
+{
+    "_id" : "59c4c11400220a53359e0994",
+    "legacy_id" : "44",
+    "nombre" : "Parque Pushkin",
+    "direccion" : "Álvaro Obregón y Cuauhtemoc S/N. Roma Norte. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.4200946,
+        "lng" : -99.1565599
+    },
+    "id" : "59c4c11400220a53359e0994"
+},
+{
+    "_id" : "59c4c11400220a53359e0996",
+    "legacy_id" : "266",
+    "nombre" : "Parque Tarahumara",
+    "direccion" : "Calle Parque Tarahumara S/N entre Trigal y Pradera . Col. Valle de la Esperanza, C.P. 64103. Monterrey. ",
+    "id" : "59c4c11400220a53359e0996"
+},
+{
+    "_id" : "59c4c11400220a53359e0998",
+    "legacy_id" : "224",
+    "nombre" : "Particular Zacatecas 144 casa 2 en la Roma norte",
+    "direccion" : "Zacatecas Paseo de los Tamarindos  144 casa 2 49. Roma Norte Bosques de las Lomas . . ",
+    "id" : "59c4c11400220a53359e0998"
+},
+{
+    "_id" : "59c4c11400220a53359e09a4",
+    "legacy_id" : "200",
+    "nombre" : "Paseo de los Tamarindos 49",
+    "direccion" : "Paseo de los Tamarindos  49. Bosques de las Lomas . . ",
+    "geopos" : {
+        "lat" : 19.390847,
+        "lng" : -99.250741
+    },
+    "id" : "59c4c11400220a53359e09a4"
+},
+{
+    "_id" : "59c4c11400220a53359e09a6",
+    "legacy_id" : "34",
+    "nombre" : "Patio Santa Fe",
+    "direccion" : "Av. Vasco de Quiroga 200. Santa Fe. Cuajimalpa. ",
+    "id" : "59c4c11400220a53359e09a6"
+},
+{
+    "_id" : "59c4c11400220a53359e09ab",
+    "legacy_id" : "124",
+    "nombre" : "Periódico Vanguardia ",
+    "direccion" : "Blvd. Venustiano Carranza  1918 int. B. República Norte. Saltillo . ",
+    "id" : "59c4c11400220a53359e09ab"
+},
+{
+    "_id" : "59c4c11400220a53359e09b6",
+    "legacy_id" : "232",
+    "nombre" : "Pestalozzi con Morena",
+    "direccion" : "Av. Vasco de Quiroga 200. Santa Fe. Cuajimalpa. ",
+    "id" : "59c4c11400220a53359e09b6"
+},
+{
+    "_id" : "59c4c11400220a53359e09bd",
+    "legacy_id" : "70",
+    "nombre" : "Petopia DF",
+    "direccion" : "Calz General Mariano Escobedo 137. Los Manzanos. Miguel Hidalgo. ",
+    "geopos" : {
+        "lat" : 19.446682,
+        "lng" : -99.182963
+    },
+    "id" : "59c4c11400220a53359e09bd"
+},
+{
+    "_id" : "59c4c11400220a53359e09c0",
+    "legacy_id" : "154",
+    "nombre" : "Pista de hielo Ice Complex",
+    "direccion" : "Av. Movimiento Obrero 221. Los Treviño. Santa Catarina. ",
+    "id" : "59c4c11400220a53359e09c0"
+},
+{
+    "_id" : "59c4c11500220a53359e09c5",
+    "legacy_id" : "149",
+    "nombre" : "Planetario Alfa",
+    "direccion" : "Av. Roberto Garza Sada 1000. Residencial Chipinque. San Pedro Garza García. ",
+    "id" : "59c4c11500220a53359e09c5"
+},
+{
+    "_id" : "59c4c11500220a53359e09d6",
+    "legacy_id" : "16",
+    "nombre" : "Plaza de Toros Puerta 1",
+    "direccion" : "Agusto Rodin 130. . Benito Juárez. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.382757,
+        "lng" : -99.179372
+    },
+    "id" : "59c4c11500220a53359e09d6"
+},
+{
+    "_id" : "59c4c11500220a53359e09d9",
+    "legacy_id" : "64",
+    "nombre" : "Plaza El Encino",
+    "direccion" : "Av. Las Américas 2101. Col. Contry Sol. Guadalupe. ",
+    "id" : "59c4c11500220a53359e09d9"
+},
+{
+    "_id" : "59c4c11500220a53359e09e0",
+    "legacy_id" : "269",
+    "nombre" : "Plaza Perisur",
+    "direccion" : "",
+    "id" : "59c4c11500220a53359e09e0"
+},
+{
+    "_id" : "59c4c11500220a53359e09e8",
+    "legacy_id" : "15",
+    "nombre" : "Proyectil Mx",
+    "direccion" : "Mier y Pesado 349 Int 2. Del Valle. Benito Juaréz. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.392948,
+        "lng" : -99.165876
+    },
+    "id" : "59c4c11500220a53359e09e8"
+},
+{
+    "_id" : "59c4c11500220a53359e09ea",
+    "legacy_id" : "116",
+    "nombre" : "Querétaro Universidad Oriente",
+    "direccion" : "Avenida Universidad Oriente  154. Centro. Queretaro. ",
+    "id" : "59c4c11500220a53359e09ea"
+},
+{
+    "_id" : "59c4c11500220a53359e0a16",
+    "legacy_id" : "126",
+    "nombre" : "RECAUDO Cholula",
+    "direccion" : "12 Poniente 105. San Andres. San Andres Cholula. ",
+    "geopos" : {
+        "lat" : 19.056527,
+        "lng" : -98.2999237
+    },
+    "id" : "59c4c11500220a53359e0a16"
+},
+{
+    "_id" : "59c4c11500220a53359e0a1c",
+    "legacy_id" : "286",
+    "nombre" : "Reporte Queretaro",
+    "direccion" : "Av. Colinas del Cimatario #450, Colinas del Cimatario",
+    "id" : "59c4c11500220a53359e0a1c"
+},
+{
+    "_id" : "59c4c11500220a53359e0a1e",
+    "legacy_id" : "210",
+    "nombre" : "Rinconada de Jesús",
+    "direccion" : "Rinconada de Jesús,  . Naucalpan. . ",
+    "id" : "59c4c11500220a53359e0a1e"
+},
+{
+    "_id" : "59c4c11500220a53359e0a20",
+    "legacy_id" : "193",
+    "nombre" : "Rio Panuco 7-102",
+    "direccion" : "Rio Panuco  7-102. Cuauhtemoc. . ",
+    "id" : "59c4c11500220a53359e0a20"
+},
+{
+    "_id" : "59c4c11500220a53359e0a23",
+    "legacy_id" : "194",
+    "nombre" : "Rubén Darío 115 Coca cola",
+    "direccion" : "Rubén Dario 115. Polanco. . ",
+    "geopos" : {
+        "lat" : 19.4278602,
+        "lng" : -99.1892484
+    },
+    "id" : "59c4c11500220a53359e0a23"
+},
+{
+    "_id" : "59c4c11600220a53359e0a25",
+    "legacy_id" : "119",
+    "nombre" : "SabiGas Garza",
+    "direccion" : "Carretera Nacional Km 1083 SN. Bella Vista. Sabinas Hidalgo. ",
+    "id" : "59c4c11600220a53359e0a25"
+},
+{
+    "_id" : "59c4c11600220a53359e0a27",
+    "legacy_id" : "265",
+    "nombre" : "San Bernabé y Mar de Aral",
+    "direccion" : "Av. San Bernabé S/N esq. Calle Mar de Aral . Col. La Alianza. Monterrey. ",
+    "id" : "59c4c11600220a53359e0a27"
+},
+{
+    "_id" : "59c4c11600220a53359e0a29",
+    "legacy_id" : "246",
+    "nombre" : "Scientology Mexico Centro de Acopio",
+    "direccion" : "Lago Zurich 245. . . ",
+    "id" : "59c4c11600220a53359e0a29"
+},
+{
+    "_id" : "59c4c11600220a53359e0a3f",
+    "legacy_id" : "133",
+    "nombre" : "Scouts",
+    "direccion" : "Científicos 109. Himno Nacional. San Luis Potosí. ",
+    "id" : "59c4c11600220a53359e0a3f"
+},
+{
+    "_id" : "59c4c11600220a53359e0a41",
+    "legacy_id" : "87",
+    "nombre" : "SEASE Facultad de Medicina UANL",
+    "direccion" : "Madero y Dr. Aguirre Pequeño SN. Col. Mitras Centro. Monterrey. ",
+    "id" : "59c4c11600220a53359e0a41"
+},
+{
+    "_id" : "59c4c11600220a53359e0a47",
+    "legacy_id" : "109",
+    "nombre" : "Seven Boxing Puebla",
+    "direccion" : "Zacapoaxtla 19. La Paz. Puebla. ",
+    "geopos" : {
+        "lat" : 19.0560922,
+        "lng" : -98.2261275
+    },
+    "id" : "59c4c11600220a53359e0a47"
+},
+{
+    "_id" : "59c4c11600220a53359e0a4f",
+    "legacy_id" : "205",
+    "nombre" : "Sierra Amantepec 193",
+    "direccion" : "Sierra Amantepec  193. Lomas de Chapultepec. . ",
+    "geopos" : {
+        "lat" : 19.41915,
+        "lng" : -99.230737
+    },
+    "id" : "59c4c11600220a53359e0a4f"
+},
+{
+    "_id" : "59c4c11600220a53359e0a51",
+    "legacy_id" : "250",
+    "nombre" : "Sistema DIF Hidalgo",
+    "direccion" : "Balderas esquina con Av. Juarez 27. Centro. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 20.125038,
+        "lng" : -98.733585
+    },
+    "id" : "59c4c11600220a53359e0a51"
+},
+{
+    "_id" : "59c4c11600220a53359e0a59",
+    "legacy_id" : "157",
+    "nombre" : "Six Flags México",
+    "direccion" : "carretera Picacho-Ajusco  Km 1.5. Ajusco. Tlalpan. ",
+    "geopos" : {
+        "lat" : 19.295504,
+        "lng" : -99.210265
+    },
+    "id" : "59c4c11600220a53359e0a59"
+},
+{
+    "_id" : "59c4c11600220a53359e0a60",
+    "legacy_id" : "306",
+    "nombre" : "Startup Mexico campus Queretaro",
+    "direccion" : "Calle Cuauhtemoc 7H Colonia de las rosas",
+    "id" : "59c4c11600220a53359e0a60"
+},
+{
+    "_id" : "59c4c11600220a53359e0a62",
+    "legacy_id" : "167",
+    "nombre" : "Sucursal Surma o en Bhoga",
+    "direccion" : "Zacatecas 503. Granjas San Isidro. Torreón. ",
+    "id" : "59c4c11600220a53359e0a62"
+},
+{
+    "_id" : "59c4c11600220a53359e0a6a",
+    "legacy_id" : "13",
+    "nombre" : "Super H",
+    "direccion" : "Av. Jiménez Cantú SN. Fracc. Club de Golf Chiliuca. Atizapán de Zaragoza. Atizapán de Zaragoza",
+    "geopos" : {
+        "lat" : 19.55552,
+        "lng" : -99.296435
+    },
+    "id" : "59c4c11600220a53359e0a6a"
+},
+{
+    "_id" : "59c4c11600220a53359e0a81",
+    "legacy_id" : "150",
+    "nombre" : "Taco Guru",
+    "direccion" : "Av. Manuel Gómez Morín 955, Zona Santa Barbara 955. Col. Punto Central Zona Santa Barbara. San Pedro Garza García. ",
+    "id" : "59c4c11600220a53359e0a81"
+},
+{
+    "_id" : "59c4c11600220a53359e0a86",
+    "legacy_id" : "111",
+    "nombre" : "TecPro | Security Experts",
+    "direccion" : "Calle 31 Sur 3306. El Vergel. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04318,
+        "lng" : -98.22864
+    },
+    "id" : "59c4c11600220a53359e0a86"
+},
+{
+    "_id" : "59c4c11700220a53359e0a88",
+    "legacy_id" : "225",
+    "nombre" : "Tlalpan 2191",
+    "direccion" : "Calzada de TlalpanMexico City, MexicoCalzada Federalismo Nte 2191S/NS/N. Cd. JardínV. CarranzaAmericana. Piedras Negras Guadalajara. ",
+    "id" : "59c4c11700220a53359e0a88"
+},
+{
+    "_id" : "59c4c11700220a53359e0a8e",
+    "legacy_id" : "96",
+    "nombre" : "Transporte Primero de Mayo",
+    "direccion" : "Mexico City, Mexico S/N. V. Carranza. Piedras Negras . ",
+    "id" : "59c4c11700220a53359e0a8e"
+},
+{
+    "_id" : "59c4c11700220a53359e0a90",
+    "legacy_id" : "58",
+    "nombre" : "Tren Ligero Juárez",
+    "direccion" : "Calzada Federalismo Nte S/N. Americana. Guadalajara. ",
+    "geopos" : {
+        "lat" : 20.674695,
+        "lng" : -103.354832
+    },
+    "id" : "59c4c11700220a53359e0a90"
+},
+{
+    "_id" : "59c4c11700220a53359e0a92",
+    "legacy_id" : "59",
+    "nombre" : "Tren Ligero Peri Sur",
+    "direccion" : "Av Cristóbal Colón S/N. Jardines de Santa María. Guadalajara. ",
+    "geopos" : {
+        "lat" : 20.607821,
+        "lng" : -103.400525
+    },
+    "id" : "59c4c11700220a53359e0a92"
+},
+{
+    "_id" : "59c4c11700220a53359e0a94",
+    "legacy_id" : "60",
+    "nombre" : "Tren Ligero Plaza Universidad",
+    "direccion" : "Av. Juárez S/N. Centro. Guadalajara. ",
+    "geopos" : {
+        "lat" : 20.675524,
+        "lng" : -103.348373
+    },
+    "id" : "59c4c11700220a53359e0a94"
+},
+{
+    "_id" : "59c4c11700220a53359e0a98",
+    "legacy_id" : "88",
+    "nombre" : "UMAE 23 Ginecología y Obstetricia IMSS",
+    "direccion" : "Av. Constitución esq. Av. Félix U. Gomez SN. Centro. Monterrey. ",
+    "id" : "59c4c11700220a53359e0a98"
+},
+{
+    "_id" : "59c4c11700220a53359e0a9f",
+    "legacy_id" : "27",
+    "nombre" : "UNAM - Estadio Olímpico Universitario, en las astas banderas",
+    "direccion" : "Av de los Insurgentes Sur S/N. Ciudad Universitaria. Coyoacán. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.3319125,
+        "lng" : -99.1943664
+    },
+    "id" : "59c4c11700220a53359e0a9f"
+},
+{
+    "_id" : "59c4c11700220a53359e0aa2",
+    "legacy_id" : "89",
+    "nombre" : "Unidad Deportiva Filiberto Sagrero",
+    "direccion" : "Av. Eugenio Garza Sada y Tierra Tarai . Col. Sierra Ventana, Monterrey.. Monterrey. ",
+    "id" : "59c4c11700220a53359e0aa2"
+},
+{
+    "_id" : "59c4c11700220a53359e0aa4",
+    "legacy_id" : "90",
+    "nombre" : "Unidad Deportiva Valle Alegre",
+    "direccion" : "Calle Alabastro y Cataluña . Col. Villa Alegre, Monterrey.. Monterrey. ",
+    "id" : "59c4c11700220a53359e0aa4"
+},
+{
+    "_id" : "59c4c11700220a53359e0aa6",
+    "legacy_id" : "171",
+    "nombre" : "UNIVA",
+    "direccion" : "Av. Tepeyac 4800. Prados Tepeyac. Zapopan. ",
+    "id" : "59c4c11700220a53359e0aa6"
+},
+{
+    "_id" : "59c4c11700220a53359e0aa8",
+    "legacy_id" : "196",
+    "nombre" : "Universidad Anahuac",
+    "direccion" : "Universidad Anáhuac . La Herradura. . ",
+    "id" : "59c4c11700220a53359e0aa8"
+},
+{
+    "_id" : "59c4c11700220a53359e0aaa",
+    "legacy_id" : "288",
+    "nombre" : "Universidad Anáhuac Querétaro",
+    "direccion" : "Calle Circuito Universidades No.1 Km. 7 Fraccion 2, El Marques, 76246 ",
+    "id" : "59c4c11700220a53359e0aaa"
+},
+{
+    "_id" : "59c4c11700220a53359e0aaf",
+    "legacy_id" : "231",
+    "nombre" : "Universidad Anáhuac México Norte",
+    "direccion" : " . Cerro de las Campanas. . ",
+    "id" : "59c4c11700220a53359e0aaf"
+},
+{
+    "_id" : "59c4c11700220a53359e0ab7",
+    "legacy_id" : "197",
+    "nombre" : "Universidad Anáhuac Norte",
+    "direccion" : "Av. Universidad Anáhuac 46. Naucalpan. . ",
+    "id" : "59c4c11700220a53359e0ab7"
+},
+{
+    "_id" : "59c4c11700220a53359e0ab9",
+    "legacy_id" : "159",
+    "nombre" : "Universidad Anáhuac Puebla",
+    "direccion" : "Av Orion S/N. La Vista Country Club. Tlaxcalancingo. ",
+    "geopos" : {
+        "lat" : 19.01983,
+        "lng" : -98.26313
+    },
+    "id" : "59c4c11700220a53359e0ab9"
+},
+{
+    "_id" : "59c4c11700220a53359e0abb",
+    "legacy_id" : "290",
+    "nombre" : "Universidad Autónoma de Querétaro",
+    "direccion" : "Vinculación Social (Campus Cerro de las Campanas) \nAcceso 4 3 N, Benito Juárez, Centro Universitario, 76010 ",
+    "id" : "59c4c11700220a53359e0abb"
+},
+{
+    "_id" : "59c4c11700220a53359e0ac7",
+    "legacy_id" : "291",
+    "nombre" : "Universidad Autónoma de Querétaro",
+    "direccion" : "Facultad de Ciencias Políticas y Sociales (Campus Cerro de las Campanas) ",
+    "id" : "59c4c11700220a53359e0ac7"
+},
+{
+    "_id" : "59c4c11700220a53359e0ac9",
+    "legacy_id" : "292",
+    "nombre" : "Universidad Autónoma de Querétaro",
+    "direccion" : "Facultad de Contaduría y Administración",
+    "id" : "59c4c11700220a53359e0ac9"
+},
+{
+    "_id" : "59c4c11700220a53359e0acb",
+    "legacy_id" : "256",
+    "nombre" : "Universidad Autonoma de San Luis Potosí - Huasteca",
+    "direccion" : "Calle Circuito Universidades  No.1 Km. 7. El Marquez. . ",
+    "id" : "59c4c11700220a53359e0acb"
+},
+{
+    "_id" : "59c4c11700220a53359e0acf",
+    "legacy_id" : "287",
+    "nombre" : "Universidad Cuauhtémoc",
+    "direccion" : "Bernardo Quintana #229 Alamos 1ra Secc, 76060 ",
+    "id" : "59c4c11700220a53359e0acf"
+},
+{
+    "_id" : "59c4c11700220a53359e0ad1",
+    "legacy_id" : "151",
+    "nombre" : "Universidad de Monterrey",
+    "direccion" : "Av Ignacio Morones Prieto 4500. Jesus M. Garza. San Pedro Garza García. ",
+    "id" : "59c4c11700220a53359e0ad1"
+},
+{
+    "_id" : "59c4c11800220a53359e0ade",
+    "legacy_id" : "198",
+    "nombre" : "Universidad Iberoamericana (Puerta 9 y 10)",
+    "direccion" : "Prolongación Paseo de la Reforma 880. Lomas de Santa Fe. . ",
+    "id" : "59c4c11800220a53359e0ade"
+},
+{
+    "_id" : "59c4c11800220a53359e0ae6",
+    "legacy_id" : "112",
+    "nombre" : "Universidad Iberoamericana Puebla",
+    "direccion" : "Blvrd. del Niño Poblano 2901. Reserva Territorial Atlixcáyotl. Puebla. ",
+    "geopos" : {
+        "lat" : 19.03127,
+        "lng" : -98.2414
+    },
+    "id" : "59c4c11800220a53359e0ae6"
+},
+{
+    "_id" : "59c4c11800220a53359e0aec",
+    "legacy_id" : "242",
+    "nombre" : "Universidad Panamericana",
+    "direccion" : "Patriotismo  691. San Pedro de los Pinos. Benito Juárez. ",
+    "id" : "59c4c11800220a53359e0aec"
+},
+{
+    "_id" : "59c4c11800220a53359e0aef",
+    "legacy_id" : "113",
+    "nombre" : "UPAEP",
+    "direccion" : "Calle 21 Sur 1103. Barrio de Santiago. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04803,
+        "lng" : -98.21613
+    },
+    "id" : "59c4c11800220a53359e0aef"
+},
+{
+    "_id" : "59c4c11800220a53359e0af1",
+    "legacy_id" : "134",
+    "nombre" : "UrBike",
+    "direccion" : "Avenida Himno Nacional, esquina con Eucaliptos 915. Las Águilas Tercera Sección. San Luis Potosí. ",
+    "id" : "59c4c11800220a53359e0af1"
+},
+{
+    "_id" : "59c4c11800220a53359e0af3",
+    "legacy_id" : "264",
+    "nombre" : "Valle de Colibrí y Valle Vega",
+    "direccion" : "Calle Valle de Colibrí S/N, esq. Calle Valle Vega . Col. Valle Soleado, C.P. 67130. Guadalupe. ",
+    "id" : "59c4c11800220a53359e0af3"
+},
+{
+    "_id" : "59c4c11800220a53359e0af5",
+    "legacy_id" : "135",
+    "nombre" : "VET PET",
+    "direccion" : "Fleming 172. Polanco. San Luis Potosí. ",
+    "id" : "59c4c11800220a53359e0af5"
+},
+{
+    "_id" : "59c4c11800220a53359e0afc",
+    "legacy_id" : "296",
+    "nombre" : "Vida Gardian Querétaro",
+    "direccion" : "Bernardo Quintana #17, Col. Pathé",
+    "id" : "59c4c11800220a53359e0afc"
+},
+{
+    "_id" : "59c4c11800220a53359e0afe",
+    "legacy_id" : "206",
+    "nombre" : "Virreyes 110",
+    "direccion" : "Virreyes  110. Lomas de Chapultepec. . ",
+    "geopos" : {
+        "lat" : 19.422325,
+        "lng" : -99.207441
+    },
+    "id" : "59c4c11800220a53359e0afe"
+},
+{
+    "_id" : "59c4c11800220a53359e0b00",
+    "legacy_id" : "91",
+    "nombre" : "Vonnacher TaeKwonDo La Rioja",
+    "direccion" : "Carretera Nacional 5000 local 308. La Rioja. Monterrey. ",
+    "id" : "59c4c11800220a53359e0b00"
+},
+{
+    "_id" : "59c4c11800220a53359e0b02",
+    "legacy_id" : "152",
+    "nombre" : "Vonnacher TaeKwonDo Lomas del Valle",
+    "direccion" : "Sierra Linda 1113. Lomas del Valle. San Pedro Garza García. ",
+    "id" : "59c4c11800220a53359e0b02"
+},
+{
+    "_id" : "59c4c11800220a53359e0b04",
+    "legacy_id" : "92",
+    "nombre" : "Vonnacher TaeKwonDo Satelite",
+    "direccion" : "Av Eugenio Garza Sada 3720. Satelite. Monterrey. ",
+    "id" : "59c4c11800220a53359e0b04"
+},
+{
+    "_id" : "59c4c11800220a53359e0b0c",
+    "legacy_id" : "302",
+    "nombre" : "Wal-Mart",
+    "direccion" : "Blvd. Bernardo Quintana 4113, San Pablo Tecnologico, 76160 ",
+    "id" : "59c4c11800220a53359e0b0c"
+},
+{
+    "_id" : "59c4c11800220a53359e0b0e",
+    "legacy_id" : "114",
+    "nombre" : "Wasabi Sushi",
+    "direccion" : "Av Andrómeda 2545. Reserva Territorial Atlixcáyotl. Puebla. ",
+    "geopos" : {
+        "lat" : 19.02683,
+        "lng" : -98.24648
+    },
+    "id" : "59c4c11800220a53359e0b0e"
+},
+{
+    "_id" : "59c4c11800220a53359e0b10",
+    "legacy_id" : "218",
+    "nombre" : "Yo quiero Yo puedo (IMIFAP)",
+    "direccion" : "Malaga Norte 25. Insurgentes Mixcoac. . ",
+    "id" : "59c4c11800220a53359e0b10"
+},
+{
+    "_id" : "59c4c11800220a53359e0b25",
+    "legacy_id" : "213",
+    "nombre" : "Yucatan y Medellín",
+    "direccion" : "Yucatan Medellin . Roma. . ",
+    "id" : "59c4c11800220a53359e0b25"
+},
+{
+    "_id" : "59c4c11800220a53359e0b27",
+    "legacy_id" : "136",
+    "nombre" : "ZDL",
+    "direccion" : "Venustiano Carranza 1035, local H. Tequisquiapan. San Luis Potosí. ",
+    "id" : "59c4c11800220a53359e0b27"
+},
+{
+    "_id" : "59c4c11900220a53359e0b2e",
+    "legacy_id" : "45",
+    "nombre" : "Zocalo",
+    "direccion" : "Plaza de la Constitución S/N. Centro. Cuauhtémoc. ",
+    "geopos" : {
+        "lat" : 19.4326018,
+        "lng" : -99.1353936
+    },
+    "id" : "59c4c11900220a53359e0b2e"
+},
+{
+    "_id" : "59c4c11900220a53359e0b31",
+    "legacy_id" : "115",
+    "nombre" : "Zócalo de Puebla",
+    "direccion" : "Juan de Palafox y Mendoza S/N. Centro. Puebla. ",
+    "geopos" : {
+        "lat" : 19.04383,
+        "lng" : -98.19823
+    },
+    "id" : "59c4c11900220a53359e0b31"
+},
+{
+    "_id" : "59c4c11900220a53359e0b39",
+    "legacy_id" : "259",
+    "nombre" : "",
+    "direccion" : "",
+    "id" : "59c4c11900220a53359e0b39"
+},
+{
+    "_id" : "59c4c11900220a53359e0b3b",
+    "legacy_id" : "260",
+    "nombre" : "",
+    "direccion" : "",
+    "id" : "59c4c11900220a53359e0b3b"
+},
+{
+    "_id" : "59c4c11900220a53359e0b3d",
+    "legacy_id" : "261",
+    "nombre" : "",
+    "direccion" : "Calle José S. Vivanco S/N entre Gral. Bonifacio Salinas y Gral. Anacleto Guerrero . Col. Carlos Salinas de Gortari. Cadereyta. ",
+    "id" : "59c4c11900220a53359e0b3d"
+},
+{
+    "_id" : "59c4c11900220a53359e0b3f",
+    "legacy_id" : "320",
+    "nombre" : "Universidad De Guadalajara",
+    "direccion" : "",
+    "geopos" : {
+        "lat" : 20.74062,
+        "lng" : -103.381003
+    },
+    "id" : "59c4c11900220a53359e0b3f"
+},
+{
+    "_id" : "59c4c10900220a53359e05b1",
+    "legacy_id" : "305",
+    "nombre" : "Casa habitación",
+    "direccion" : "Laureles no. 305 Jurica",
+    "id" : "59c4c10900220a53359e05b1"
+},
+{
+    "_id" : "59c4c10900220a53359e05ce",
+    "legacy_id" : "179",
+    "nombre" : "Casino Militar Campo Marte",
+    "direccion" : " . . . ",
+    "id" : "59c4c10900220a53359e05ce"
+},
+{
+    "_id" : "59c4c10900220a53359e05d0",
+    "legacy_id" : "180",
+    "nombre" : "Centro Citibanamex",
+    "direccion" : "Lomas de Sotelo . . . ",
+    "id" : "59c4c10900220a53359e05d0"
+},
+{
+    "_id" : "59c4c10a00220a53359e060b",
+    "legacy_id" : "6",
+    "nombre" : "Centro gubernamental, Metro La Raza",
+    "direccion" : "Insurgentes y Eje Central Lázaro Cárdenas . . Gustavo A. Madero. Ciudad de México",
+    "geopos" : {
+        "lat" : 19.467248,
+        "lng" : -99.140748
+    },
+    "id" : "59c4c10a00220a53359e060b"
+},
+{
+    "_id" : "59c4c11300220a53359e0956",
+    "legacy_id" : "18",
+    "nombre" : "Oficinas Dif Nacional, Centro Acopio 2",
+    "direccion" : "Av. Emiliano Zapata 340. Santa Cruz Atoyac . Benito Juárez . Ciudad de México",
+    "geopos" : {
+        "lat" : 19.366782,
+        "lng" : -99.158387
+    },
+    "id" : "59c4c11300220a53359e0956"
+},
+{
+    "_id" : "59c4c10b00220a53359e069a",
+    "legacy_id" : "183",
+    "nombre" : "Congreso de la Unión",
+    "direccion" : " . Congreso. . ",
+    "id" : "59c4c10b00220a53359e069a"
+},
+{
+    "_id" : "59c4c10d00220a53359e0744",
+    "legacy_id" : "211",
+    "nombre" : "Escocia 26",
+    "direccion" : "Escocia 26. Del Valle. . ",
+    "id" : "59c4c10d00220a53359e0744"
+},
+{
+    "_id" : "59c4c10e00220a53359e079b",
+    "legacy_id" : "71",
+    "nombre" : "Estela de Luz",
+    "direccion" : "Av. Paseo de la Reforma, Puerta de los Leones, en el bosque de chapultepec  S/N. Cuauhtemoc. Miguel Hidalgo . ",
+    "geopos" : {
+        "lat" : 19.424947,
+        "lng" : -99.1742566
+    },
+    "id" : "59c4c10e00220a53359e079b"
+},
+{
+    "_id" : "59c4c11100220a53359e0886",
+    "legacy_id" : "190",
+    "nombre" : "Iskalti ",
+    "direccion" : "Ave. Clavería 81. Clavería. . ",
+    "id" : "59c4c11100220a53359e0886"
+},
+{
+    "_id" : "59c4c11300220a53359e092a",
+    "legacy_id" : "33",
+    "nombre" : "MN Roy",
+    "direccion" : "Mérida 186. Roma. Cuauhtémoc. ",
+    "id" : "59c4c11300220a53359e092a"
+},
+{
+    "_id" : "59c4c11300220a53359e093b",
+    "legacy_id" : "217",
+    "nombre" : "Morton Subastas",
+    "direccion" : "Virreyes 155. . . ",
+    "id" : "59c4c11300220a53359e093b"
+},
+{
+    "_id" : "59c4c11400220a53359e0971",
+    "legacy_id" : "237",
+    "nombre" : "Panificadoras El Sol de Cuernavaca",
+    "direccion" : "#REF!",
+    "id" : "59c4c11400220a53359e0971"
+},
+{
+    "_id" : "59c4c10b00220a53359e0698",
+    "legacy_id" : "234",
+    "nombre" : "Comercial Mexicana Mixcoac",
+    "direccion" : "#REF!",
+    "id" : "59c4c10b00220a53359e0698"
+},
+{
+    "_id" : "59c4c11500220a53359e09cc",
+    "legacy_id" : "230",
+    "nombre" : "Plaza Carso",
+    "direccion" : "Avenida Universidad Oriente 12 Ponienteav colonias del cimatario 154105450. CentroSan AndresColinas del Cimatario. QueretaroSan Andres Cholula. ",
+    "id" : "59c4c11500220a53359e09cc"
+},
+{
+    "_id" : "59c4c11600220a53359e0a45",
+    "legacy_id" : "303",
+    "nombre" : "SEDESOL",
+    "direccion" : "Calle estadio #106 Col. Centro Sur",
+    "id" : "59c4c11600220a53359e0a45"
+},
+{
+    "_id" : "59c4c11600220a53359e0a4d",
+    "legacy_id" : "110",
+    "nombre" : "Seven Boxing Puebla",
+    "direccion" : "Del Trébol O Avenida Atilac O Avenida Dra María del Carmen Millán 4. San Felipe Hueyotlipan. Puebla. ",
+    "geopos" : {
+        "lat" : 19.08,
+        "lng" : -98.21611
+    },
+    "id" : "59c4c11600220a53359e0a4d"
+},
+{
+    "_id" : "59c4c11600220a53359e0a53",
+    "legacy_id" : "195",
+    "nombre" : "Six Flags",
+    "direccion" : "Km 1.5 . Carr. Picacho-Ajusco. . ",
+    "id" : "59c4c11600220a53359e0a53"
+},
+{
+    "_id" : "59c4c11700220a53359e0a96",
+    "legacy_id" : "61",
+    "nombre" : "UAD",
+    "direccion" : "Andrés Terán 1106. . Guadalajara. ",
+    "id" : "59c4c11700220a53359e0a96"
+},
+{
+    "_id" : "59c4c11900220a53359e0b33",
+    "legacy_id" : "316",
+    "nombre" : "Zócalo municipal Texmelucan",
+    "direccion" : "",
+    "id" : "59c4c11900220a53359e0b33"
+}]

@@ -1,0 +1,11 @@
+{
+  "name": "GoecodingSismo",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {},
+  "jest": {},
+  "dependencies": {
+    "node-geocoder": "^3.20.0"
+  }
+}
